@@ -1,0 +1,5 @@
+. env/bin/activate
+python3 scraping/download_bing_image_search_urls.py
+python3 scraping/download_noisy_images.py
+python3 training/filter_all_species_dataset_with_fnf.py
+python3 transformation/split_dataset.py $DERIVED_DATASETS_PATH/filtered_all_species_images/ $DERIVED_DATASETS_PATH/splitted_all_species_images/

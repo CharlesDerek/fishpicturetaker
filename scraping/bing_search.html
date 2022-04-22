@@ -1,0 +1,148 @@
+<html>
+<head>
+  <title>Bing Image Search</title>
+  <meta charset="utf-8">
+  <style>
+    .result { display: inline-block; border: #BBB 1px solid; padding: 5px; }
+    .selected { border: #78BA62 6px solid; }
+    img { max-width: 500px; }
+  </style>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.21.1/babel.min.js"></script>
+	<script>
+		const bing_image_search = function (search, callback, offset = 0, limit = 10000) {
+      if (offset >= limit) {
+        return callback([]);
+      }
+			console.log('Searching images for: ' + search);
+			const host = 'api.cognitive.microsoft.com';
+			const path = '/bing/v7.0/images/search';
+			const url = "https://" + host + path + '?q=' + encodeURIComponent(search) + "&offset=" + offset + "&count=150";
+			const subscriptionKey = '779f909a1cfc49569a7af883868da987';
+			const options = {
+				headers : {
+					'Content-Type': "applicationjson; charset=utf-8",
+					'Ocp-Apim-Subscription-Key' : subscriptionKey,
+				}
+			}
+			const req = fetch(url, options);
+			req.then(response => response.json())
+				.catch(error => { console.error(error); alert(error); })
+        .then(data => {
+          if (data.nextOffset !== null && data.nextOffset < data.totalEstimatedMatches) {
+            bing_image_search(search, results => { return callback(data.value.concat(results)); }, data.nextOffset, limit);
+          } else {
+            callback(data.value);
+          }
+        })
+				.catch(error => { console.error(error); alert(error); })
+		}
+		//bing_image_search("barramundi");
+	</script>
+	<script type="text/babel">
+		class ImageSearch extends React.Component {
+
+      constructor(props) {
+        super(props);
+        this.state = { results: [] }; 
+      }
+
+			onSearch = e => {
+        e.preventDefault();
+				const enterKey = 13;
+				if (e.keyCode === enterKey) {
+          const query = e.target.value;
+          if (query !== "") {
+            bing_image_search(query, this.searchCallback, 0, 10);
+          }
+				}
+			}
+
+      searchCallback = data => {
+        this.setState({ results: data.map(x => { return { thumbnailUrl: x.thumbnailUrl, imageUrl: x.contentUrl, contextUrl: x.hostPageUrl, selected: false }; }) });
+      }
+
+      resultSelectToggleHandler = index => {
+        const result = this.state.results[index];
+        result.selected = !result.selected;
+        this.setState({ resuls: this.state.results });
+      }
+
+      downloadHandler = () => {
+        // write the URls to file (one per line)
+        var delimiter = ";";
+        var textToSave = this.state.results
+          .filter(x => x.selected)
+          .map(x => x.imageUrl + delimiter + x.contextUrl).join('\n');
+        var hiddenElement = document.createElement('a');
+        hiddenElement.href = 'data:attachment/text,' + encodeURI(textToSave);
+        hiddenElement.target = '_blank';
+        hiddenElement.download = 'metaData.csv';
+        hiddenElement.click();
+      }
+
+			render() {
+        const footer = this.state.results.length > 0 ? <button type="button" onClick={this.downloadHandler}>Download</button> : null;
+				return (
+					<main>
+            <header>
+              <h1>Bing Image Search v2</h1>
+              <form onSubmit={e => e.preventDefault()}>
+                <label>Search</label>
+                <input type="search" onKeyUp={this.onSearch} />
+              </form>
+            </header>
+            <section>
+              {this.state.results.map((result, i) => <Result key={i} result={result} onSelectToggle={this.resultSelectToggleHandler.bind(this, i)} />)}
+            </section>
+            {footer} 
+					</main>
+				);
+			}
+		}
+
+		class Result extends React.Component {
+
+      constructor(props) {
+        super(props);
+        this.componentWillReceiveProps(props);
+      }
+
+      componentWillReceiveProps(nextProps) {
+        this.state = nextProps; 
+      }
+
+      onImageClick = e => {
+        this.state.onSelectToggle();  
+      }  
+
+      onContextClick = e => {
+        e.preventDefault();
+        window.open(this.state.result.contextUrl, "_blank");
+      } 
+
+			render () {
+        const result = this.state.result;
+        const classes = "result" + (result.selected ? " selected" : "");
+				return (
+          <section className={classes}>
+            <img src={result.thumbnailUrl} onClick={this.onImageClick} />
+            <div>
+              <button onClick={this.onContextClick}>context</button>
+            </div>
+          </section>
+				);
+			}
+		}
+		
+		ReactDOM.render(
+			<ImageSearch />,
+			document.getElementById("root")
+		);
+	</script>
+</head>
+<body>
+	<div id="root"></div>
+</body>
+</html>

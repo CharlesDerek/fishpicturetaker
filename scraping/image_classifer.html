@@ -1,0 +1,200 @@
+<html>
+<head>
+  <title>Image Classifier</title>
+  <meta charset="utf-8">
+  <style>
+    label { margin-right: 10px; }
+    .image { display: inline-block; border: #BBB 1px solid; padding: 5px; }
+    .image form { padding: 10px; margin-bottom: 0; }
+    .image form input, .image form textarea, .image form button { margin-top: 10px; }
+    .selected { border: #78BA62 6px solid; }
+    img { max-width: 500px; }
+    textarea { width: 100%; }
+    #downloadButton { margin-top: 100px; }
+  </style>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.21.1/babel.min.js"></script>
+  <script>
+    const csvDelimiter = ";";
+
+    function getImageMetadata(file, callback) {
+      var reader = new FileReader();
+      reader.onload = e => {
+        var lines = e.target.result.replace(/\r\n|\r/g, "\n").split("\n").filter(x => x !== "");
+        var delimiter = e.target.result.indexOf(";") !== -1 ? ";" : ",";
+        var metadata = lines.map(x => {
+          var [imageUrl, className, notes] = x.split(delimiter);
+          return { imageUrl: imageUrl, className: className, notes: notes };
+        }).filter(x => x.imageUrl !== "");
+        callback(removeDuplicates(metadata));
+      };
+      reader.readAsText(file);
+    }
+
+    function removeDuplicates(metadata) {
+      var imageUrlToMetadatums = {};
+      metadata.forEach(x => imageUrlToMetadatums[x.imageUrl] = x);
+      return Object.values(imageUrlToMetadatums);
+    }
+
+    function downloadImageMetadata(metadata, fileName) {
+      if (metadata !== null) {
+        var blob = null;
+        if (fileName.endsWith("csv")) {
+          blob = metadataToCsvBlob(metadata);
+        } else {
+          throw "Unsupported file type.";
+        }
+        downloadBlob(blob, fileName);
+      }
+    }
+
+    function metadataToCsvBlob(metadata) {
+      const lines = metadata.map(x => [x.imageUrl, x.className, x.notes ].join(csvDelimiter));
+      lines.sort();
+      return new Blob([lines.join("\n")], { type: "text/csv" });
+    }
+
+    function downloadBlob(blob, fileName) {
+			// Attribution: https://stackoverflow.com/a/30832210/137996 
+			if (window.navigator.msSaveOrOpenBlob) // IE10+
+					window.navigator.msSaveOrOpenBlob(blob, fileName);
+			else { // Others
+					var a = document.createElement("a"),
+									url = URL.createObjectURL(blob);
+					a.href = url;
+					a.download = fileName;
+					document.body.appendChild(a);
+					a.click();
+					setTimeout(function() {
+							document.body.removeChild(a);
+							window.URL.revokeObjectURL(url);  
+					}, 0); 
+			} 
+    }
+
+    window.onbeforeunload = () => {
+      return "Are you sure you want to leave?";
+    };
+  </script>
+	<script type="text/babel">
+		class ImageClassifer extends React.Component {
+
+      constructor(props) {
+        super(props);
+        this.state = { imageMetadata: [], fileName: null, classNames: [] }; 
+      }
+
+      onFileChange = e => {
+        if (e.target.files.length > 0) {
+          if (e.target.files.length > 1) {
+            throw "Only one file is supported.";
+          }
+          const file = e.target.files[0];
+          getImageMetadata(file, imageMetadata => {
+            const sortedImageMetadata = imageMetadata.sort((a, b) => a.className.localeCompare(b.className));
+            const classNames = Array.from(new Set(imageMetadata.map(x => x.className)));
+            this.setState({ imageMetadata: sortedImageMetadata, fileName: file.name, classNames: classNames });
+          });
+        } else {
+          this.setState({ imageMetadata: [], fileName: null, classNames: [] });
+        }
+      }
+
+      onImageMetadatumChange = (index, imageMetadatum) => {
+        this.state.imageMetadata[index] = imageMetadatum;
+        this.setState({ imageMetadata: this.state.imageMetadata });
+      }
+
+      onImageMetadatumDelete = index => {
+        this.state.imageMetadata.splice(index, 1);
+        this.setState({ imageMetadata: this.state.imageMetadata });
+      }
+
+      downloadHandler = () => {
+        downloadImageMetadata(this.state.imageMetadata, this.state.fileName);
+      }
+
+			render() {
+        const metadata = this.state.imageMetadata;
+        const fileInfo = metadata.length > 0 ? <p>{metadata.length} images.</p> : null;
+        const footer = metadata.length > 0 ? <button id="downloadButton" type="button" onClick={this.downloadHandler}>Download</button> : null;
+				return (
+					<main>
+            <header>
+              <h1>Image Classifier</h1>
+              <form onSubmit={e => e.preventDefault()}>
+                <label htmlFor="fileChooser">Image Metadata File:</label>
+                <input id="fileChooser" type="file" onChange={this.onFileChange} />
+                {fileInfo}
+              </form>
+              <datalist id="classNames">
+                {this.state.classNames.map((className, i) => <option key={i} value={className} />)}
+              </datalist>
+            </header>
+            <section>
+              {this.state.imageMetadata.map((metadatum, i) => <Image key={i} imageMetadatum={metadatum} onChange={this.onImageMetadatumChange.bind(this, i)} onDelete={this.onImageMetadatumDelete.bind(this, i)} />)}
+            </section>
+            {footer} 
+					</main>
+				);
+			}
+		}
+
+		class Image extends React.Component {
+
+      constructor(props) {
+        super(props);
+        this.componentWillReceiveProps(props);
+      }
+
+      componentWillReceiveProps(nextProps) {
+        this.state = nextProps; 
+      }
+
+      onClassNameChange = e => {
+        this.state.imageMetadatum.className = e.target.value;
+        this.state.onChange(this.state.imageMetadatum);
+      }
+
+      onNotesChange = e => {
+        this.state.imageMetadatum.notes = e.target.value;
+        this.state.onChange(this.state.imageMetadatum);
+      }
+
+      onDeleteClick = e => {
+        e.preventDefault();
+        window.open(this.state.result.contextUrl, "_blank");
+      } 
+
+			render () {
+        const metadatum = this.state.imageMetadatum;
+        const classes = "image" + (metadatum.selected ? " selected" : "");
+				return (
+          <section className={classes}>
+            <img src={metadatum.imageUrl} onClick={this.onImageClick} />
+            <form onSubmit={e => e.preventDefault()}>
+              <label htmlFor="className">Class:</label>
+              <input id="className" type="text" value={metadatum.className} onChange={this.onClassNameChange} list="classNames" />
+              <br />
+              <label htmlFor="notes">Notes:</label>
+              <textarea id="notes" value={metadatum.notes} onChange={this.onNotesChange}></textarea>
+              <br />
+              <button onClick={this.state.onDelete}>Delete</button>
+            </form>
+          </section>
+				);
+			}
+		}
+		
+		ReactDOM.render(
+			<ImageClassifer />,
+			document.getElementById("root")
+		);
+	</script>
+</head>
+<body>
+	<div id="root"></div>
+</body>
+</html>

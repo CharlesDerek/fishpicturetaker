@@ -1,0 +1,16 @@
+POST /graphql
+
+Content-Type: application/json
+x-key: T8j9qBtqG7R3hDfbrVDNR97hFpqbMg3FzxTYJNe8DNTLXnuxSK
+
+{
+  "query": "mutation createImage($image: image!) { createImage(image: $image) }",
+  "variables": {
+    "image": {
+      "UserId": "fakeuserid",
+      "FileName": "testFileName.jpg",
+      "CreatedDate": "2018-08-02T10:33:26Z",
+      "CreatedInApp": false
+    }
+  }
+}

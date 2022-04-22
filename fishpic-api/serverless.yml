@@ -1,0 +1,52 @@
+service: fishpic-api
+
+# Use the serverless-webpack plugin to transpile ES6
+plugins:
+  - serverless-webpack
+  - serverless-offline
+
+# serverless-webpack configuration
+# Enable auto-packing of external modules
+custom:
+  webpack:
+    webpackConfig: ./webpack.config.js
+    includeModules: true
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+  stage: prod
+  region: ap-southeast-2
+  memorySize: 1024
+  versionFunctions: false
+
+  # 'iamRoleStatements' defines the permission policy for the Lambda function.
+  # In this case Lambda functions are granted with permissions to access DynamoDB.
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - dynamodb:DescribeTable
+        - dynamodb:Query
+        - dynamodb:Scan
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:UpdateItem
+        - dynamodb:DeleteItem
+      Resource: "arn:aws:dynamodb:ap-southeast-2:*:*"
+
+functions:
+  graphql:
+    handler: src/functions/graphql.main
+    events:
+      - http:
+          path: graphql
+          method: get
+          cors: true
+          # Temporarily turned off.
+          #authorizer: aws_iam
+      - http:
+          path: graphql
+          method: post
+          cors: true
+          # Leave this off so that Unauthenticated requests from the App are not blocked.
+          #authorizer: aws_iam

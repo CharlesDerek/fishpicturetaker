@@ -1,0 +1,82 @@
+class,class size,val size,val n_correct,val accuracy
+amberjack,271,32,21,65.625
+australian_bass,825,96,91,94.792
+australian_bonito,47,6,5,83.333
+barramundi,641,77,69,89.610
+barred_cheek_coral_trout,163,20,19,95.000
+barred_javelin,115,14,11,78.571
+barred_queenfish,16,2,2,100.000
+bartailed_flathead,171,21,16,76.190
+beach,306,306,306,100.000
+bigeye_trevally,126,11,9,81.818
+black_jewfish,115,14,10,71.429
+blackbanded_amberjack,32,5,4,80.000
+blackspotted_rockcod_estuary_cod,71,8,4,50.000
+blue_threadfin,67,8,7,87.500
+boat,859,859,859,100.000
+cobia,539,60,57,95.000
+diamondscale_mullet,110,13,8,61.538
+dusky_flathead,553,65,51,78.462
+frypan_bream,27,4,1,25.000
+giant_queenfish,167,20,14,70.000
+giant_trevally,529,63,58,92.063
+golden_snapper_fingermark,557,66,63,95.455
+golden_trevally,480,57,52,91.228
+goldenline_whiting,10,2,1,50.000
+goldspotted_rockcod_estuary_cod,45,6,4,66.667
+grass_emperor_sweetlip,106,13,11,84.615
+great_barracuda,718,85,80,94.118
+grey_mackerel,15,3,0, 0.000
+highfin_amberjack,105,12,7,58.333
+indoors,393,46,46,100.000
+king_threadfin,119,14,12,85.714
+leaping_bonito,43,6,4,66.667
+lesser_queenfish,76,9,8,88.889
+longtail_tuna,379,45,40,88.889
+luderick,264,32,28,87.500
+mackerel_tuna,312,37,34,91.892
+mahi_mahi,624,74,74,100.000
+mangrove_jack,804,93,89,95.699
+mulloway,430,51,42,82.353
+needleskin_queenfish,61,7,7,100.000
+northern_sand_flathead,30,4,1,25.000
+northern_whiting,40,6,5,83.333
+pearl_perch,197,23,21,91.304
+people,777,91,88,96.703
+pikey_bream,48,6,5,83.333
+river,416,50,48,96.000
+river_garfish,13,2,0, 0.000
+river_perch,3,1,0, 0.000
+samsonfish,364,43,42,97.674
+sand_whiting,121,15,14,93.333
+scaly_jewfish,4,1,0, 0.000
+school_mackerel,61,7,3,42.857
+scribbled_rabbitfish,102,12,12,100.000
+sea,253,253,253,100.000
+sea_mullet,299,36,34,94.444
+shark_mackerel,56,8,4,50.000
+silver_javelin,35,5,3,60.000
+silver_jewfish,33,5,5,100.000
+small_spotted_dart,69,8,8,100.000
+snapper,381,45,41,91.111
+snub_nosed_dart,385,46,43,93.478
+snubnose_garfish,10,2,0, 0.000
+spanish_mackerel,355,43,38,88.372
+spotted_mackerel,137,16,13,81.250
+stout_whiting,5,1,0, 0.000
+striped_barracuda,94,11,10,90.909
+swallow_tailed_dart,17,3,1,33.333
+tailor,746,89,79,88.764
+tarwhine,65,8,7,87.500
+teraglin,76,9,2,22.222
+three_by_two_garfish,7,2,1,50.000
+trumpeter_winter_whiting,21,3,2,66.667
+wahoo,150,18,15,83.333
+wolf_herring,120,15,13,86.667
+yellowfin_bream,98,12,10,83.333
+yellowfin_tuna,390,46,38,82.609
+yellowtail_kingfish,547,53,49,92.453
+yellowtailed_flathead,9,0,0, 0.000
+
+training accuracy,0.9976319350473613
+validation accuracy,0.9321428571428572

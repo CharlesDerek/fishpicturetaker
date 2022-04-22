@@ -1,0 +1,5 @@
+rm $DERIVED_DATASETS_PATH/transformed_fish_dataset/interim/
+find $DERIVED_DATASETS_PATH/transformed_fish_dataset/ -type f -iname "*.jpg" \
+  | ./darknet detector test /mnt/hdd/extracted_datasets/fish_only/obj.data /mnt/hdd/extracted_datasets/fish_only/yolo-obj_fish_only.cfg /mnt/hdd/models/yolo_backup/yolo-obj_fish_only_28600.weights -dont_show -ext_output \
+  | python ~/code/fish/yolo/extract_bounding_boxes_from_darknet_test_output.py $DERIVED_DATASETS_PATH/transformed_fish_dataset/ $DERIVED_DATASETS_PATH/cropped_transformed_fish_dataset/ /mnt/hdd/extracted_datasets/fish_only/labels.txt
+python ~/code/fish/yolo/extract_bounding_boxes_from_darknet_annotation_files.py $DERIVED_DATASETS_PATH/transformed_fish_dataset_anns/ $DERIVED_DATASETS_PATH/transformed_fish_dataset/ $DERIVED_DATASETS_PATH/fill_cropped_transformed_fish_dataset/

@@ -1,0 +1,12 @@
+apig-test \
+  --username='ashley.j.sands@gmail.com' \
+  --password='ashley.j.sands@gmail.com' \
+  --user-pool-id='ap-southeast-2_zfGhL33lh' \
+  --app-client-id='4cb3pr2mheoakb4brnl59i07sl' \
+  --cognito-region='ap-southeast-2' \
+  --identity-pool-id='ap-southeast-2:61901957-cee8-4070-a2c1-5bb483e8f187' \
+  --invoke-url='https://9qkfdinvx1.execute-api.ap-southeast-2.amazonaws.com/prod' \
+  --api-gateway-region='ap-southeast-2' \
+  --path-template='/graphql' \
+  --method='GET' \
+  --additional-params='{"headers":{"Accept":"applicaton/json"},"queryParams":{"query":"{images{Id}}"}}'

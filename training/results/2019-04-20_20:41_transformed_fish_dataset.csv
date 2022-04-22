@@ -1,0 +1,115 @@
+class,class size,val size,val n_correct,val accuracy
+amberjack,265,32,23,71.875
+australian_bass,819,95,89,93.684
+australian_bonito,46,6,6,100.000
+barramundi,633,76,72,94.737
+barred_cheek_coral_trout,164,19,16,84.211
+barred_javelin,116,14,12,85.714
+barred_queenfish,16,2,2,100.000
+bartailed_flathead,168,20,13,65.000
+beach,302,36,35,97.222
+bigeye_trevally,127,10,7,70.000
+black_jewfish,115,14,8,57.143
+black_reef_leatherjacket,65,8,1,12.500
+black_tipped_rockcod,208,25,19,76.000
+blackbanded_amberjack,32,4,2,50.000
+blackspotted_rockcod,64,7,5,71.429
+bludger_trevally,32,4,1,25.000
+blue_maori,91,11,6,54.545
+blue_spotted_coral_trout,129,15,9,60.000
+blue_threadfin,78,9,4,44.444
+blue_tuskfish,15,3,2,66.667
+boat,852,102,94,92.157
+brown_sweetlips,201,23,6,26.087
+cobia,528,59,53,89.831
+dark_tailed_seaperch,43,6,2,33.333
+diamond_trevally,71,8,6,75.000
+diamondscale_mullet,110,13,10,76.923
+dusky_flathead,546,65,58,89.231
+ferocious_puffer,34,5,3,60.000
+frypan_bream,27,4,2,50.000
+giant_queenfish,165,20,17,85.000
+giant_trevally,524,62,56,90.323
+golden_snapper,546,65,61,93.846
+golden_trevally,488,58,55,94.828
+goldline_whiting,10,2,0, 0.000
+goldspotted_rockcod,45,6,4,66.667
+goldspotted_sweetlips,196,23,11,47.826
+grass_emperor,103,12,6,50.000
+great_barracuda,714,84,74,88.095
+grey_mackerel,16,3,0, 0.000
+highfin_amberjack,105,12,8,66.667
+indoors,391,46,46,100.000
+khaki_grunter,5,1,0, 0.000
+king_threadfin,118,14,9,64.286
+leaping_bonito,43,6,6,100.000
+lesser_queenfish,75,9,5,55.556
+longtail_tuna,371,44,38,86.364
+luderick,263,31,27,87.097
+mackerel_tuna,310,37,32,86.486
+mahi_mahi,616,74,73,98.649
+mangrove_jack,758,90,77,85.556
+mulloway,418,51,42,82.353
+needleskin_queenfish,59,8,7,87.500
+northern_sand_flathead,30,4,0, 0.000
+northern_saratoga,227,27,19,70.370
+northern_whiting,40,6,5,83.333
+orangefin_ponyfish,32,5,3,60.000
+oxeye_herring,230,27,14,51.852
+painted_sweetlips,239,28,12,42.857
+papuan_jawfish,16,2,0, 0.000
+pearl_perch,196,22,20,90.909
+people,759,90,87,96.667
+pikey_bream,49,6,4,66.667
+queensland_groper,266,32,21,65.625
+rainbow_monocle_bream,218,26,12,46.154
+redthroat_emperor,92,11,2,18.182
+reef_stonefish,173,21,17,80.952
+river,412,48,47,97.917
+river_garfish,13,2,0, 0.000
+river_perch,3,1,0, 0.000
+saddletail_snapper,138,17,6,35.294
+samsonfish,361,42,34,80.952
+sand_bass,49,6,2,33.333
+sand_whiting,120,15,14,93.333
+scaly_jewfish,4,1,0, 0.000
+school_mackerel,64,7,5,71.429
+scribbled_rabbitfish,102,12,12,100.000
+sea,251,30,24,80.000
+sea_mullet,298,35,31,88.571
+sevenspot_archer_fish,241,28,19,67.857
+shark_mackerel,56,8,5,62.500
+shortfin_batfish,31,4,3,75.000
+silver_javelin,36,5,3,60.000
+silver_jewfish,32,4,1,25.000
+small_spotted_dart,69,8,7,87.500
+snapper,379,44,41,93.182
+snub_nosed_dart,383,45,42,93.333
+snubnose_garfish,10,2,1,50.000
+spanish_flag,92,11,5,45.455
+spanish_mackerel,372,43,34,79.070
+spotted_mackerel,139,17,14,82.353
+spotted_sicklefish,96,11,3,27.273
+starry_flounder,256,30,22,73.333
+stout_whiting,5,1,0, 0.000
+striped_barracuda,93,11,7,63.636
+striped_scat,152,18,13,72.222
+swallow_tailed_dart,17,3,1,33.333
+tailor,742,88,70,79.545
+tarwhine,65,8,8,100.000
+teraglin,76,9,3,33.333
+three_by_two_garfish,7,2,0, 0.000
+threespin_frogfish,98,12,3,25.000
+tripletail,150,18,11,61.111
+trumpeter_whiting,21,3,2,66.667
+wahoo,151,18,12,66.667
+wolf_herring,119,14,12,85.714
+yellow_spotted_emperor,103,12,4,33.333
+yellowfin_bream,106,13,9,69.231
+yellowfin_tripodfish,11,2,1,50.000
+yellowfin_tuna,389,46,34,73.913
+yellowtail_kingfish,541,46,44,95.652
+yellowtailed_flathead,10,0,0, 0.000
+
+training accuracy,0.9929538290376414
+validation accuracy,0.798828125

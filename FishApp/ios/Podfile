@@ -1,0 +1,57 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'FishApp' do
+  use_frameworks!
+
+  # Pods for FishApp
+  rn_path = '../node_modules/react-native'
+  # This is added to fix an issue: https://github.com/bamlab/react-native-image-resizer/issues/121
+  pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+
+  pod 'React', :path => '../node_modules/react-native', :subspecs => [
+    'Core',
+    'CxxBridge', # Include this for RN >= 0.47
+    'DevSupport', # Include this to enable In-App Devmenu if RN >= 0.43
+    'RCTText',
+    'RCTNetwork',
+    'RCTWebSocket', # needed for debugging
+    'RCTImage',
+    'RCTWebSocket', # Needed for debugging
+    'RCTAnimation', # Needed for FlatList and animations running on native UI thread
+  ]
+  pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
+  pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
+  pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
+
+  pod 'TensorFlowLiteSwift'
+
+  pod 'RNFS', :path => '../node_modules/react-native-fs'
+  pod 'Firebase/Core'
+  pod 'Fabric'
+  pod 'Crashlytics'
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+  pod 'RNDeviceInfo', :path => '../node_modules/react-native-device-info'
+  pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
+  pod 'react-native-exif', :path => '../node_modules/react-native-exif'
+  pod 'react-native-image-resizer', :path => '../node_modules/react-native-image-resizer'
+
+  target 'FishAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'FishApp-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for FishApp-tvOS
+
+  target 'FishApp-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

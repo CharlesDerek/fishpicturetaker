@@ -1,0 +1,12 @@
+{
+  "httpMethod": "POST",
+  "headers": {
+    "Accept": "application/json",
+    "Content-Type": "application/graphql",
+    "x-key": "T8j9qBtqG7R3hDfbrVDNR97hFpqbMg3FzxTYJNe8DNTLXnuxSK"
+  },
+  "body": "{ \"query\": \"mutation createImage($image: image!) { createImage(image: $image) }\", \"variables\": {\"image\": { \"IdentityId\": \"ap-southeast-2:050f29b1-831a-4196-b0f0-be4ebd32a231\", \"Key\": \"testFileName.jpg\", \"CreatedDate\": \"2018-08-02T10:33:26Z\", \"ClassificationResults\": [ { \"Confidence\": 0.3477761447429657, \"Class\": \"indoors\" }, { \"Confidence\": 0.19267618656158447, \"Class\": \"people\" },{ \"Confidence\": 0.07270807027816772, \"Class\": \"boat\" },{ \"Confidence\": 0.06819050759077072, \"Class\": \"barramundi\" },{ \"Confidence\": 0.062324974685907364, \"Class\": \"cobia\" } ], \"CreatedInApp\": false, \"IsTestData\": true }} }",
+  "requestContext": {
+    "httpMethod": "POST"
+  }
+}

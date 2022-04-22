@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>319808535648-ghofe7euj8o3lmh4gds9ojb2sqc90n27.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.319808535648-ghofe7euj8o3lmh4gds9ojb2sqc90n27</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBalkduQIK-Pcqtg-P15ibYVDHO8sZRxhU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>319808535648</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.Fishpic</string>
+	<key>PROJECT_ID</key>
+	<string>sandstorm-software</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sandstorm-software.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:319808535648:ios:5284b3675da0a869</string>
+	<key>DATABASE_URL</key>
+	<string>https://sandstorm-software.firebaseio.com</string>
+</dict>
+</plist>

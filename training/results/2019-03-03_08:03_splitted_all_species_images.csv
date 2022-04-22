@@ -1,0 +1,2723 @@
+class,class size,val size,val n_correct,val accuracy
+Aapticheilichthys websteri,7,1,0, 0.000
+Aaptosyax grypus,61,7,0, 0.000
+Abactochromis labrosus,171,21,11,52.381
+Abalistes filamentosus,11,2,0, 0.000
+Abalistes stellaris,105,12,0, 0.000
+Abalistes stellatus,71,8,0, 0.000
+Abbottina binhi,2,1,0, 0.000
+Abbottina rivularis,133,16,6,37.500
+Ablabys binotatus,14,2,0, 0.000
+Ablabys macracanthus,56,7,0, 0.000
+Ablabys taenianotus,121,15,3,20.000
+Ablennes hians,141,17,5,29.412
+Aboma etheostoma,24,4,3,75.000
+Aborichthys elongatus,54,7,0, 0.000
+Aborichthys kempi,7,1,0, 0.000
+Aborichthys waikhomi,1,1,0, 0.000
+Abramis brama,205,23,13,56.522
+Abramites eques,49,6,0, 0.000
+Abramites hypselonotus,89,10,4,40.000
+Abudefduf abdominalis,94,11,3,27.273
+Abudefduf bengalensis,99,12,1, 8.333
+Abudefduf concolor,5,1,0, 0.000
+Abudefduf conformis,2,1,0, 0.000
+Abudefduf declivifrons,8,1,0, 0.000
+Abudefduf hoefleri,4,1,0, 0.000
+Abudefduf lorenzi,19,3,0, 0.000
+Abudefduf luridus,242,29,8,27.586
+Abudefduf notatus,62,7,1,14.286
+Abudefduf saxatilis,195,22,8,36.364
+Abudefduf septemfasciatus,101,12,2,16.667
+Abudefduf sexfasciatus,273,33,27,81.818
+Abudefduf sordidus,145,17,4,23.529
+Abudefduf sparoides,31,4,0, 0.000
+Abudefduf taurus,43,6,0, 0.000
+Abudefduf troschelii,96,11,3,27.273
+Abudefduf vaigiensis,148,18,8,44.444
+Abudefduf whitleyi,27,4,0, 0.000
+Abyssoberyx levisquamosus,2,1,0, 0.000
+Abyssobrotula galatheae,81,10,0, 0.000
+Acanthaluteres brownii,15,3,0, 0.000
+Acanthaluteres spilomelanurus,20,3,0, 0.000
+Acanthaluteres vittiger,31,4,0, 0.000
+Acanthaphritis barbata,1,1,0, 0.000
+Acantharchus pomotis,90,10,2,20.000
+Acanthemblemaria aspera,55,7,0, 0.000
+Acanthemblemaria atrata,7,2,0, 0.000
+Acanthemblemaria balanorum,5,1,0, 0.000
+Acanthemblemaria castroi,18,3,0, 0.000
+Acanthemblemaria chaplini,2,1,0, 0.000
+Acanthemblemaria crockeri,48,6,0, 0.000
+Acanthemblemaria exilispinus,1,1,0, 0.000
+Acanthemblemaria greenfieldi,1,1,0, 0.000
+Acanthemblemaria hancocki,15,3,0, 0.000
+Acanthemblemaria johnsoni,1,1,0, 0.000
+Acanthemblemaria macrospilus,15,3,0, 0.000
+Acanthemblemaria mangognatha,1,1,0, 0.000
+Acanthemblemaria maria,68,8,2,25.000
+Acanthemblemaria medusa,7,2,0, 0.000
+Acanthemblemaria rivasi,7,2,0, 0.000
+Acanthemblemaria spinosa,106,13,0, 0.000
+Acanthemblemaria stephensi,3,1,0, 0.000
+Acanthicus adonis,98,11,3,27.273
+Acanthicus hystrix,114,13,1, 7.692
+Acanthistius brasilianus,68,8,0, 0.000
+Acanthistius cinctus,19,3,0, 0.000
+Acanthistius ocellatus,40,5,2,40.000
+Acanthistius pardalotus,5,1,0, 0.000
+Acanthistius patachonicus,8,1,0, 0.000
+Acanthistius pictus,22,3,0, 0.000
+Acanthistius sebastoides,11,2,0, 0.000
+Acanthistius serratus,7,2,0, 0.000
+Acanthobrama centisquama,38,5,0, 0.000
+Acanthobrama lissneri,8,2,0, 0.000
+Acanthobrama telavivensis,96,11,3,27.273
+Acanthocepola abbreviata,6,1,0, 0.000
+Acanthocepola indica,75,9,2,22.222
+Acanthocepola krusensternii,30,4,1,25.000
+Acanthocepola limbata,53,7,1,14.286
+Acanthochaenus luetkenii,2,1,0, 0.000
+Acanthocharax microlepis,1,1,0, 0.000
+Acanthochromis polyacanthus,150,18,6,33.333
+Acanthocleithron chapini,1,1,0, 0.000
+Acanthoclinus fuscus,13,2,0, 0.000
+Acanthoclinus littoreus,2,1,0, 0.000
+Acanthocobitis botia,100,12,1, 8.333
+Acanthocobitis mooreh,1,1,0, 0.000
+Acanthocobitis pavonacea,9,2,0, 0.000
+Acanthocobitis pictilis,5,1,0, 0.000
+Acanthocobitis rubidipinnis,17,3,0, 0.000
+Acanthocobitis urophthalmus,18,3,0, 0.000
+Acanthocobitis zonalternans,46,6,3,50.000
+Acanthocybium solandri,271,32,17,53.125
+Acanthodoras cataphractus,43,6,1,16.667
+Acanthodoras spinosissimus,49,7,0, 0.000
+Acanthodraco dewitti,2,1,0, 0.000
+Acanthogobius flavimanus,225,27,12,44.444
+Acanthogobius hasta,32,5,3,60.000
+Acanthogobius insularis,2,1,0, 0.000
+Acanthogobius lactipes,56,7,3,42.857
+Acanthogobius luridus,1,1,0, 0.000
+Acantholabrus palloni,158,19,5,26.316
+Acantholiparis opercularis,24,3,2,66.667
+Acantholumpenus mackayi,23,4,1,25.000
+Acanthonus armatus,23,4,1,25.000
+Acanthopagrus akazakii,4,1,0, 0.000
+Acanthopagrus arabicus,5,1,0, 0.000
+Acanthopagrus australis,145,17,3,17.647
+Acanthopagrus berda,73,8,1,12.500
+Acanthopagrus bifasciatus,122,15,5,33.333
+Acanthopagrus butcheri,61,7,0, 0.000
+Acanthopagrus chinshira,16,2,0, 0.000
+Acanthopagrus latus,156,19,11,57.895
+Acanthopagrus omanensis,2,1,0, 0.000
+Acanthopagrus pacificus,40,6,0, 0.000
+Acanthopagrus schlegelii,198,23,15,65.217
+Acanthopagrus sheim,4,1,0, 0.000
+Acanthopagrus sivicolus,49,6,5,83.333
+Acanthopagrus taiwanensis,6,1,0, 0.000
+Acanthoplesiops cappuccino,5,1,0, 0.000
+Acanthoplesiops psilogaster,18,3,0, 0.000
+Acanthopsetta nadeshnyi,5,1,0, 0.000
+Acanthopsoides gracilentus,13,2,0, 0.000
+Acanthopsoides molobrion,14,2,0, 0.000
+Acanthopsoides robertsi,2,1,0, 0.000
+Acanthorhodeus chankaensis,23,4,0, 0.000
+Acanthosphex leurynnis,40,5,1,20.000
+Acanthostracion notacanthus,17,3,0, 0.000
+Acanthostracion polygonius,228,27,12,44.444
+Acanthostracion quadricornis,197,23,10,43.478
+Acanthurus achilles,65,8,1,12.500
+Acanthurus albimento,4,1,0, 0.000
+Acanthurus albipectoralis,25,4,0, 0.000
+Acanthurus auranticavus,20,3,0, 0.000
+Acanthurus bahianus,154,19,7,36.842
+Acanthurus bariene,82,10,1,10.000
+Acanthurus blochii,65,7,0, 0.000
+Acanthurus chirurgus,154,19,7,36.842
+Acanthurus chronixis,34,5,0, 0.000
+Acanthurus coeruleus,252,30,21,70.000
+Acanthurus dussumieri,119,14,7,50.000
+Acanthurus fowleri,52,7,1,14.286
+Acanthurus gahhm,133,16,3,18.750
+Acanthurus grammoptilus,19,3,0, 0.000
+Acanthurus guttatus,134,16,9,56.250
+Acanthurus japonicus,52,7,0, 0.000
+Acanthurus leucocheilus,50,7,0, 0.000
+Acanthurus leucopareius,90,10,4,40.000
+Acanthurus leucosternon,118,14,12,85.714
+Acanthurus lineatus,185,22,20,90.909
+Acanthurus maculiceps,76,9,3,33.333
+Acanthurus mata,103,12,6,50.000
+Acanthurus monroviae,56,7,0, 0.000
+Acanthurus nigricans,74,8,2,25.000
+Acanthurus nigricauda,98,11,3,27.273
+Acanthurus nigrofuscus,120,14,9,64.286
+Acanthurus nigroris,54,7,0, 0.000
+Acanthurus nubilus,15,2,0, 0.000
+Acanthurus olivaceus,106,12,6,50.000
+Acanthurus polyzona,37,5,1,20.000
+Acanthurus pyroferus,123,15,12,80.000
+Acanthurus randalli,72,8,0, 0.000
+Acanthurus sohal,282,33,25,75.758
+Acanthurus tennentii,51,7,3,42.857
+Acanthurus thompsoni,82,9,4,44.444
+Acanthurus triostegus,243,29,22,75.862
+Acanthurus tristis,94,11,5,45.455
+Acanthurus xanthopterus,161,19,9,47.368
+Acantopsis dialuzona,68,8,0, 0.000
+Acantopsis octoactinotos,18,3,0, 0.000
+Acantopsis rungthipae,3,1,0, 0.000
+Acapoeta tanganicae,18,3,0, 0.000
+Acarichthys heckelii,327,39,30,76.923
+Acaronia nassa,77,9,3,33.333
+Acaronia vultuosa,13,2,0, 0.000
+Acentrogobius audax,3,1,0, 0.000
+Acentrogobius caninus,49,7,1,14.286
+Acentrogobius chlorostigmatoides,1,1,0, 0.000
+Acentrogobius cyanomos,7,1,0, 0.000
+Acentrogobius dayi,1,1,0, 0.000
+Acentrogobius janthinopterus,8,1,0, 0.000
+Acentrogobius moloanus,7,1,0, 0.000
+Acentrogobius multifasciatus,4,1,0, 0.000
+Acentrogobius nebulosus,39,5,1,20.000
+Acentrogobius pflaumii,28,4,1,25.000
+Acentrogobius viganensis,9,2,0, 0.000
+Acentrogobius viridipunctatus,21,3,0, 0.000
+Acentronura breviperula,23,4,0, 0.000
+Acentronura gracilissima,24,3,2,66.667
+Acentronura tentaculata,19,3,0, 0.000
+Acentrophryne longidens,6,1,0, 0.000
+Acestridium colombiense,3,1,0, 0.000
+Acestridium dichromum,57,7,0, 0.000
+Acestridium discus,5,1,0, 0.000
+Acestridium gymnogaster,3,1,0, 0.000
+Acestrorhynchus abbreviatus,1,1,0, 0.000
+Acestrorhynchus altus,34,5,0, 0.000
+Acestrorhynchus falcatus,145,17,4,23.529
+Acestrorhynchus falcirostris,88,10,1,10.000
+Acestrorhynchus isalineae,33,5,0, 0.000
+Acestrorhynchus lacustris,4,1,0, 0.000
+Acestrorhynchus microlepis,10,2,0, 0.000
+Acestrorhynchus minimus,15,2,0, 0.000
+Acestrorhynchus nasutus,15,3,2,66.667
+Acestrorhynchus pantaneiro,31,4,0, 0.000
+Acheilognathus asmussii,7,1,0, 0.000
+Acheilognathus barbatulus,7,2,0, 0.000
+Acheilognathus cyanostigma,65,8,1,12.500
+Acheilognathus elongatus,28,4,0, 0.000
+Acheilognathus gracilis,8,1,0, 0.000
+Acheilognathus hondae,4,1,0, 0.000
+Acheilognathus intermedia,2,1,0, 0.000
+Acheilognathus longipinnis,41,6,3,50.000
+Acheilognathus macropterus,34,5,0, 0.000
+Acheilognathus majusculus,13,2,0, 0.000
+Acheilognathus melanogaster,108,13,2,15.385
+Acheilognathus meridianus,7,1,0, 0.000
+Acheilognathus rhombeus,159,19,9,47.368
+Acheilognathus tabira,237,28,13,46.429
+Acheilognathus taenianalis,3,1,0, 0.000
+Acheilognathus tonkinensis,27,4,0, 0.000
+Acheilognathus typus,34,5,1,20.000
+Acheilognathus yamatsutae,34,5,3,60.000
+Achiroides melanorhynchus,2,1,0, 0.000
+Achiropsetta tricholepis,1,1,0, 0.000
+Achirus achirus,90,10,3,30.000
+Achirus lineatus,24,3,0, 0.000
+Achirus scutum,4,1,0, 0.000
+Achoerodus gouldii,67,8,2,25.000
+Achoerodus viridis,275,33,15,45.455
+Achondrostoma arcasii,44,6,0, 0.000
+Achondrostoma occidentale,52,7,0, 0.000
+Achondrostoma oligolepis,32,4,0, 0.000
+Achondrostoma salmantinum,11,2,0, 0.000
+Acipenser baerii,141,17,8,47.059
+Acipenser brevirostrum,126,15,5,33.333
+Acipenser dabryanus,76,9,0, 0.000
+Acipenser fulvescens,262,31,11,35.484
+Acipenser gueldenstaedtii,173,21,8,38.095
+Acipenser medirostris,65,7,0, 0.000
+Acipenser mikadoi,22,3,0, 0.000
+Acipenser naccarii,110,13,3,23.077
+Acipenser nudiventris,87,10,0, 0.000
+Acipenser oxyrinchus,127,15,3,20.000
+Acipenser persicus,103,12,0, 0.000
+Acipenser ruthenus,186,22,16,72.727
+Acipenser schrenckii,51,7,1,14.286
+Acipenser sinensis,158,19,1, 5.263
+Acipenser stellatus,135,16,5,31.250
+Acipenser sturio,158,19,7,36.842
+Acipenser transmontanus,173,21,11,52.381
+Acnodon normani,77,9,0, 0.000
+Acnodon oligacanthus,8,1,0, 0.000
+Acnodon senai,2,1,0, 0.000
+Acreichthys hajam,6,1,0, 0.000
+Acreichthys radiatus,68,8,1,12.500
+Acreichthys tomentosus,135,16,10,62.500
+Acrobrycon ipanquianus,19,3,0, 0.000
+Acrocheilus alutaceus,36,5,0, 0.000
+Acrochordonichthys rugosus,13,2,0, 0.000
+Acropoma japonicum,23,4,2,50.000
+Acropoma lecorneti,1,1,0, 0.000
+Acrossocheilus beijiangensis,6,1,0, 0.000
+Acrossocheilus fasciatus,21,3,0, 0.000
+Acrossocheilus hemispinus,4,1,0, 0.000
+Acrossocheilus iridescens,1,1,0, 0.000
+Acrossocheilus longipinnis,10,2,0, 0.000
+Acrossocheilus paradoxus,97,11,2,18.182
+Acrossocheilus parallens,8,2,0, 0.000
+Acrossocheilus yunnanensis,2,1,0, 0.000
+Acroteriobatus annulatus,2,1,0, 0.000
+Acroteriobatus blochii,5,1,0, 0.000
+Aculeola nigra,48,7,1,14.286
+Acyrtus artius,2,1,0, 0.000
+Adelosebastes latens,50,7,1,14.286
+Adelotremus leptus,1,1,0, 0.000
+Adontosternarchus balaenops,2,1,0, 0.000
+Adontosternarchus clarkae,8,2,0, 0.000
+Adontosternarchus devenanzii,7,2,0, 0.000
+Adontosternarchus nebulosus,7,2,0, 0.000
+Adontosternarchus sachsi,5,1,0, 0.000
+Adrianichthys kruyti,8,2,0, 0.000
+Adrianichthys oophorus,6,1,0, 0.000
+Adventor elongatus,2,1,0, 0.000
+Aeoliscus punctulatus,49,6,0, 0.000
+Aeoliscus strigatus,145,17,7,41.176
+Aequidens chimantanus,3,1,0, 0.000
+Aequidens diadema,169,20,5,25.000
+Aequidens epae,3,1,0, 0.000
+Aequidens metae,186,22,8,36.364
+Aequidens michaeli,7,1,0, 0.000
+Aequidens pallidus,24,4,0, 0.000
+Aequidens paloemeuensis,2,1,0, 0.000
+Aequidens patricki,74,8,1,12.500
+Aequidens plagiozonatus,7,2,0, 0.000
+Aequidens potaroensis,10,2,0, 0.000
+Aequidens rondoni,23,3,0, 0.000
+Aequidens tetramerus,59,8,3,37.500
+Aequidens tubicen,1,1,0, 0.000
+Aequidens viridis,21,3,0, 0.000
+Aesopia cornuta,65,7,0, 0.000
+Aetapcus maculatus,40,5,0, 0.000
+Aethaloperca rogaa,244,29,11,37.931
+Aethotaxis mitopteryx mitopteryx,7,2,0, 0.000
+Aetobatus flagellum,24,3,0, 0.000
+Aetobatus narinari,290,35,28,80.000
+Aetobatus narutobiei,7,2,0, 0.000
+Aetobatus ocellatus,230,27,9,33.333
+Aetomylaeus bovinus,15,3,0, 0.000
+Aetomylaeus maculatus,12,2,0, 0.000
+Aetomylaeus nichofii,12,2,0, 0.000
+Aetomylaeus vespertilio,26,4,0, 0.000
+Afronandus sheljuzhkoi,14,2,0, 0.000
+Afronemacheilus abyssinicus,1,1,0, 0.000
+Afurcagobius tamarensis,9,2,0, 0.000
+Agamyxis albomaculatus,31,4,0, 0.000
+Agamyxis pectinifrons,82,9,3,33.333
+Ageneiosus inermis,34,5,0, 0.000
+Ageneiosus magoi,39,5,0, 0.000
+Ageneiosus marmoratus,68,8,0, 0.000
+Ageneiosus militaris,4,1,0, 0.000
+Ageneiosus pardalis,6,1,0, 0.000
+Ageneiosus polystictus,5,1,0, 0.000
+Ageneiosus ucayalensis,14,2,0, 0.000
+Ageneiosus uranophthalmus,1,1,0, 0.000
+Ageneiosus vittatus,31,4,0, 0.000
+Agoniates halecinus,8,1,0, 0.000
+Agonomalus jordani,5,1,0, 0.000
+Agonomalus proboscidalis,9,2,0, 0.000
+Agonopsis chiloensis,5,1,0, 0.000
+Agonopsis sterletus,16,2,0, 0.000
+Agonopsis vulsa,2,1,0, 0.000
+Agonus cataphractus,120,14,3,21.429
+Agosia chrysogaster,78,9,0, 0.000
+Agrostichthys parkeri,175,21,9,42.857
+Aguarunichthys tocantinsensis,7,2,0, 0.000
+Aguarunichthys torosus,99,12,3,25.000
+Ahlia egmontis,5,1,0, 0.000
+Ahliesaurus berryi,6,1,0, 0.000
+Aidablennius sphynx,186,22,5,22.727
+Ailia coila,26,4,0, 0.000
+Ailiichthys punctata,5,1,0, 0.000
+Aioliops megastigma,22,3,0, 0.000
+Akawaio penak,18,3,2,66.667
+Akihito futuna,4,1,0, 0.000
+Akihito vanuatu,8,1,0, 0.000
+Akko brevis,15,2,0, 0.000
+Akko dionaea,7,2,0, 0.000
+Akko rossi,56,7,2,28.571
+Akrokolioplax bicornis,2,1,0, 0.000
+Akysis hendricksoni,8,1,0, 0.000
+Akysis longifilis,5,1,0, 0.000
+Akysis maculipinnis,4,1,0, 0.000
+Akysis portellus,8,1,0, 0.000
+Akysis prashadi,8,2,0, 0.000
+Akysis varius,3,1,0, 0.000
+Akysis vespa,41,6,0, 0.000
+Alabes bathys,1,1,0, 0.000
+Alabes dorsalis,11,2,0, 0.000
+Alabes hoesei,5,1,0, 0.000
+Alabes springeri,2,1,0, 0.000
+Albatrossia pectoralis,77,9,3,33.333
+Albula argentea,8,2,0, 0.000
+Albula esuncula,7,2,0, 0.000
+Albula gilberti,5,1,0, 0.000
+Albula glossodonta,49,7,0, 0.000
+Albula goreensis,1,1,0, 0.000
+Albula nemoptera,2,1,0, 0.000
+Albula oligolepis,2,1,0, 0.000
+Albula pacifica,7,1,0, 0.000
+Albula virgata,6,1,0, 0.000
+Albula vulpes,226,26,12,46.154
+Albulichthys albuloides,11,2,1,50.000
+Alburnoides bipunctatus,162,19,10,52.632
+Alburnoides eichwaldii,1,1,0, 0.000
+Alburnoides emineae,2,1,0, 0.000
+Alburnoides fasciatus,10,2,0, 0.000
+Alburnoides maculatus,7,1,0, 0.000
+Alburnoides manyasensis,23,4,1,25.000
+Alburnoides ohridanus,1,1,0, 0.000
+Alburnoides prespensis,7,1,0, 0.000
+Alburnoides qanati,3,1,0, 0.000
+Alburnoides recepi,1,1,0, 0.000
+Alburnoides rossicus,11,2,0, 0.000
+Alburnoides strymonicus,1,1,0, 0.000
+Alburnoides taeniatus,1,1,0, 0.000
+Alburnus akili,12,2,0, 0.000
+Alburnus albidus,32,4,0, 0.000
+Alburnus alburnus,198,23,15,65.217
+Alburnus arborella,28,4,0, 0.000
+Alburnus belvica,8,1,0, 0.000
+Alburnus caeruleus,5,1,0, 0.000
+Alburnus chalcoides,31,4,0, 0.000
+Alburnus macedonicus,2,1,0, 0.000
+Alburnus mento,19,3,0, 0.000
+Alburnus mossulensis,5,1,0, 0.000
+Alburnus nasreddini,3,1,0, 0.000
+Alburnus sarmaticus,2,1,0, 0.000
+Alburnus sava,3,1,0, 0.000
+Alburnus schischkovi,1,1,0, 0.000
+Alburnus scoranza,32,4,0, 0.000
+Alburnus tarichi,26,4,0, 0.000
+Alburnus thessalicus,2,1,0, 0.000
+Alburnus vistonicus,1,1,0, 0.000
+Alcichthys elongatus,14,2,0, 0.000
+Alcolapia alcalica,91,10,3,30.000
+Alcolapia grahami,33,5,0, 0.000
+Alcolapia latilabris,7,1,0, 0.000
+Alcolapia ndalalani,2,1,0, 0.000
+Aldrichetta forsteri,98,12,0, 0.000
+Aldrovandia affinis,16,3,0, 0.000
+Aldrovandia gracilis,8,2,0, 0.000
+Aldrovandia oleosa,1,1,0, 0.000
+Aldrovandia phalacra,6,1,0, 0.000
+Aldrovandia rostrata,5,1,0, 0.000
+Alectis alexandrina,32,4,0, 0.000
+Alectis ciliaris,215,26,13,50.000
+Alectis indica,71,8,3,37.500
+Alectridium aurantiacum,1,1,0, 0.000
+Alepes apercna,8,2,0, 0.000
+Alepes djedaba,83,9,0, 0.000
+Alepes kleinii,16,3,0, 0.000
+Alepes melanoptera,8,2,0, 0.000
+Alepes vari,70,8,0, 0.000
+Alepidomus evermanni,14,2,0, 0.000
+Alepisaurus brevirostris,58,8,0, 0.000
+Alepisaurus ferox,121,14,8,57.143
+Alepocephalus agassizii,3,1,0, 0.000
+Alepocephalus bairdii,15,2,2,100.000
+Alepocephalus bicolor,2,1,0, 0.000
+Alepocephalus dentifer,2,1,0, 0.000
+Alepocephalus productus,2,1,0, 0.000
+Alepocephalus rostratus,15,2,0, 0.000
+Alepocephalus tenebrosus,7,2,0, 0.000
+Alepocephalus triangularis,3,1,0, 0.000
+Alertichthys blacki,7,2,0, 0.000
+Alestes ansorgii,1,1,0, 0.000
+Alestes baremoze,98,12,0, 0.000
+Alestes dentex,48,7,0, 0.000
+Alestes macrophthalmus,7,2,0, 0.000
+Alestopetersius brichardi,65,8,0, 0.000
+Alestopetersius caudalis,160,19,7,36.842
+Alestopetersius hilgendorfi,32,4,1,25.000
+Alestopetersius leopoldianus,7,2,0, 0.000
+Alestopetersius nigropterus,53,7,1,14.286
+Alestopetersius smykalai,71,8,2,25.000
+Alfaro cultratus,106,12,1, 8.333
+Alfaro huberi,24,3,0, 0.000
+Algansea popoche,6,1,0, 0.000
+Alionematichthys minyomma,1,1,0, 0.000
+Allenbatrachus grunniens,80,9,0, 0.000
+Allenichthys glauerti,3,1,0, 0.000
+Alloblennius pictus,32,4,0, 0.000
+Allocareproctus unangas,1,1,0, 0.000
+Alloclinus holderi,81,9,2,22.222
+Allocyttus niger,27,4,1,25.000
+Allocyttus verrucosus,21,3,0, 0.000
+Allodontichthys hubbsi,7,1,0, 0.000
+Allodontichthys polylepis,7,1,0, 0.000
+Allodontichthys zonistius,1,1,0, 0.000
+Allomicrodesmus dorotheae,4,1,0, 0.000
+Allomogurnda nesolepis,8,2,0, 0.000
+Allomogurnda sampricei,1,1,0, 0.000
+Allomycterus pilatus,33,5,1,20.000
+Alloophorus robustus,47,6,2,33.333
+Allosmerus elongatus,16,3,0, 0.000
+Allothunnus fallai,24,3,0, 0.000
+Allotoca diazi,5,1,0, 0.000
+Allotoca dugesii,27,4,0, 0.000
+Allotoca goslinei,9,2,0, 0.000
+Allotoca maculata,23,3,1,33.333
+Allotoca meeki,1,1,0, 0.000
+Allotoca regalis,9,2,0, 0.000
+Allotoca zacapuensis,20,3,1,33.333
+Alopias pelagicus,208,24,10,41.667
+Alopias superciliosus,177,21,6,28.571
+Alopias vulpinus,175,21,8,38.095
+Alosa aestivalis,120,14,1, 7.143
+Alosa agone,57,8,0, 0.000
+Alosa alabamae,22,3,0, 0.000
+Alosa alosa,105,13,0, 0.000
+Alosa braschnikowi,8,2,0, 0.000
+Alosa caspia,43,6,0, 0.000
+Alosa chrysochloris,102,12,3,25.000
+Alosa fallax,183,22,6,27.273
+Alosa immaculata,24,3,0, 0.000
+Alosa kessleri,43,6,0, 0.000
+Alosa killarnensis,4,1,0, 0.000
+Alosa macedonica,6,1,0, 0.000
+Alosa maeotica,13,2,0, 0.000
+Alosa mediocris,72,8,0, 0.000
+Alosa pseudoharengus,129,16,2,12.500
+Alosa sapidissima,180,21,9,42.857
+Alosa tanaica,7,1,0, 0.000
+Alosa volgensis,9,2,0, 0.000
+Alphestes afer,54,7,0, 0.000
+Alphestes immaculatus,58,8,2,25.000
+Alphestes multiguttatus,6,1,0, 0.000
+Alticorpus macrocleithrum,1,1,0, 0.000
+Alticorpus mentale,3,1,0, 0.000
+Alticorpus peterdaviesi,3,1,0, 0.000
+Alticorpus profundicola,1,1,0, 0.000
+Alticus anjouanae,23,3,0, 0.000
+Alticus arnoldorum,32,5,0, 0.000
+Alticus kirkii,8,2,0, 0.000
+Alticus saliens,32,5,0, 0.000
+Altolamprologus calvus,263,31,20,64.516
+Altolamprologus compressiceps,264,31,27,87.097
+Altrichthys azurelineatus,7,2,0, 0.000
+Altrichthys curatus,1,1,0, 0.000
+Aluterus heudelotii,12,2,0, 0.000
+Aluterus monoceros,203,23,6,26.087
+Aluterus schoepfii,55,7,0, 0.000
+Aluterus scriptus,312,37,28,75.676
+Amanses scopas,98,12,4,33.333
+Amaralia hypsiura,57,7,1,14.286
+Amarsipus carlsbergi,74,8,0, 0.000
+Amatitlania altoflava,7,2,0, 0.000
+Amatitlania coatepeque,6,1,0, 0.000
+Amatitlania kanna,33,5,1,20.000
+Amatitlania myrnae,22,3,0, 0.000
+Amatitlania nanolutea,13,2,0, 0.000
+Amatitlania nigrofasciata,240,28,18,64.286
+Amatitlania sajica,89,10,3,30.000
+Amatitlania septemfasciata,5,1,0, 0.000
+Amatitlania siquia,123,15,2,13.333
+Amazonspinther dalmata,12,2,1,50.000
+Amazonsprattus scintilla,2,1,0, 0.000
+Ambassis agassizii,11,2,0, 0.000
+Ambassis agrammus,7,2,0, 0.000
+Ambassis ambassis,138,17,10,58.824
+Ambassis buruensis,4,1,0, 0.000
+Ambassis gymnocephalus,2,1,0, 0.000
+Ambassis interrupta,7,2,0, 0.000
+Ambassis kopsii,12,2,0, 0.000
+Ambassis macleayi,7,1,0, 0.000
+Ambassis macracanthus,4,1,0, 0.000
+Ambassis marianus,4,1,0, 0.000
+Ambassis nalua,2,1,0, 0.000
+Ambastaia nigrolineata,44,6,1,16.667
+Ambastaia sidthimunki,133,16,3,18.750
+Ambiserrula jugosa,12,2,0, 0.000
+Ambloplites ariommus,96,11,1, 9.091
+Ambloplites cavifrons,17,3,0, 0.000
+Ambloplites constellatus,51,7,1,14.286
+Ambloplites rupestris,206,25,14,56.000
+Amblyceps cerinum,3,1,0, 0.000
+Amblyceps foratum,7,1,0, 0.000
+Amblyceps mangois,10,2,0, 0.000
+Amblyceps serratum,1,1,0, 0.000
+Amblychaeturichthys hexanema,15,3,0, 0.000
+Amblychaeturichthys sciistius,3,1,0, 0.000
+Amblycirrhitus bimacula,23,4,0, 0.000
+Amblycirrhitus earnshawi,8,1,0, 0.000
+Amblycirrhitus pinos,128,15,6,40.000
+Amblydoras affinis,12,2,0, 0.000
+Amblydoras bolivarensis,1,1,0, 0.000
+Amblydoras gonzalezi,2,1,0, 0.000
+Amblydoras monitor,1,1,0, 0.000
+Amblydoras nauticus,23,4,0, 0.000
+Amblyeleotris arcupinna,21,3,0, 0.000
+Amblyeleotris aurora,96,11,0, 0.000
+Amblyeleotris bleekeri,1,1,0, 0.000
+Amblyeleotris callopareia,65,8,0, 0.000
+Amblyeleotris diagonalis,65,7,1,14.286
+Amblyeleotris downingi,1,1,0, 0.000
+Amblyeleotris ellipse,1,1,0, 0.000
+Amblyeleotris fasciata,11,2,0, 0.000
+Amblyeleotris fontanesii,49,6,0, 0.000
+Amblyeleotris guttata,118,14,10,71.429
+Amblyeleotris gymnocephala,50,7,1,14.286
+Amblyeleotris japonica,61,7,4,57.143
+Amblyeleotris latifasciata,77,9,1,11.111
+Amblyeleotris macronema,3,1,0, 0.000
+Amblyeleotris marquesas,5,1,0, 0.000
+Amblyeleotris masuii,7,1,0, 0.000
+Amblyeleotris melanocephala,50,7,2,28.571
+Amblyeleotris morishitai,4,1,0, 0.000
+Amblyeleotris neumanni,1,1,0, 0.000
+Amblyeleotris ogasawarensis,15,2,0, 0.000
+Amblyeleotris periophthalma,80,9,2,22.222
+Amblyeleotris randalli,109,13,9,69.231
+Amblyeleotris rhyax,5,1,0, 0.000
+Amblyeleotris rubrimarginata,26,4,0, 0.000
+Amblyeleotris steinitzi,82,10,5,50.000
+Amblyeleotris stenotaeniata,4,1,0, 0.000
+Amblyeleotris sungami,30,4,0, 0.000
+Amblyeleotris triguttata,2,1,0, 0.000
+Amblyeleotris wheeleri,76,9,5,55.556
+Amblyeleotris yanoi,138,17,10,58.824
+Amblygaster clupeoides,7,1,0, 0.000
+Amblygaster leiogaster,13,2,0, 0.000
+Amblygaster sirm,42,6,0, 0.000
+Amblyglyphidodon aureus,173,21,18,85.714
+Amblyglyphidodon batunai,2,1,0, 0.000
+Amblyglyphidodon curacao,129,16,7,43.750
+Amblyglyphidodon flavilatus,115,14,1, 7.143
+Amblyglyphidodon flavopurpureus,2,1,0, 0.000
+Amblyglyphidodon indicus,139,17,0, 0.000
+Amblyglyphidodon leucogaster,132,16,11,68.750
+Amblyglyphidodon melanopterus,23,3,0, 0.000
+Amblyglyphidodon orbicularis,37,5,0, 0.000
+Amblyglyphidodon ternatensis,71,8,0, 0.000
+Amblygobius albimaculatus,70,8,1,12.500
+Amblygobius buanensis,7,2,0, 0.000
+Amblygobius bynoensis,38,5,0, 0.000
+Amblygobius decussatus,99,11,6,54.545
+Amblygobius esakiae,4,1,0, 0.000
+Amblygobius linki,20,3,0, 0.000
+Amblygobius nocturnus,31,4,2,50.000
+Amblygobius phalaena,193,22,8,36.364
+Amblygobius semicinctus,16,2,0, 0.000
+Amblygobius sphynx,19,3,0, 0.000
+Amblygobius stethophthalmus,57,8,2,25.000
+Amblyopsis hoosieri,11,2,0, 0.000
+Amblyopsis rosae,35,5,0, 0.000
+Amblyopsis spelaea,24,3,0, 0.000
+Amblypharyngodon chulabhornae,26,4,0, 0.000
+Amblypharyngodon melettinus,3,1,0, 0.000
+Amblypharyngodon microlepis,3,1,0, 0.000
+Amblypharyngodon mola,56,7,2,28.571
+Amblypomacentrus breviceps,50,7,0, 0.000
+Amblypomacentrus clarus,13,2,0, 0.000
+Amblyraja badia,16,2,0, 0.000
+Amblyraja doellojuradoi,4,1,0, 0.000
+Amblyraja frerichsi,1,1,0, 0.000
+Amblyraja georgiana,2,1,0, 0.000
+Amblyraja hyperborea,17,3,1,33.333
+Amblyraja jenseni,8,2,0, 0.000
+Amblyraja radiata,164,20,6,30.000
+Amblyrhynchichthys truncatus,21,3,2,66.667
+Amblyrhynchotes honckenii,56,8,0, 0.000
+Amblyrhynchotes rufopunctatus,7,1,0, 0.000
+Ambophthalmos angustus,8,1,0, 0.000
+Ambophthalmos magnicirrus,1,1,0, 0.000
+Ameca splendens,330,40,23,57.500
+Ameiurus brunneus,59,8,3,37.500
+Ameiurus catus,71,8,0, 0.000
+Ameiurus melas,180,22,3,13.636
+Ameiurus natalis,123,15,0, 0.000
+Ameiurus nebulosus,161,19,13,68.421
+Ameiurus platycephalus,20,3,0, 0.000
+Ameiurus serracanthus,47,6,1,16.667
+Amia calva,270,32,15,46.875
+Amioides polyacanthus,2,1,0, 0.000
+Amissidens hainesi,2,1,0, 0.000
+Ammocrypta bifascia,24,3,0, 0.000
+Ammocrypta clara,141,17,2,11.765
+Ammocrypta pellucida,71,8,0, 0.000
+Ammocrypta vivax,17,3,0, 0.000
+Ammocryptocharax elegans,59,8,0, 0.000
+Ammocryptocharax lateralis,1,1,0, 0.000
+Ammocryptocharax minutus,7,1,0, 0.000
+Ammodytes americanus,44,6,0, 0.000
+Ammodytes dubius,22,3,0, 0.000
+Ammodytes hexapterus,40,6,0, 0.000
+Ammodytes marinus,24,3,0, 0.000
+Ammodytes personatus,61,7,3,42.857
+Ammodytes tobianus,120,14,5,35.714
+Ammodytoides gilli,8,1,0, 0.000
+Ammolabrus dicrus,11,2,0, 0.000
+Ammotretis elongatus,4,1,0, 0.000
+Ammotretis lituratus,19,3,0, 0.000
+Ammotretis rostratus,4,1,0, 0.000
+Amniataba caudavittata,10,2,0, 0.000
+Amniataba percoides,32,5,0, 0.000
+Amoya gracilis,2,1,0, 0.000
+Amoya signata,48,7,2,28.571
+Amphelikturus dendriticus,16,3,0, 0.000
+Amphichaetodon howensis,33,5,2,40.000
+Amphichaetodon melbae,7,2,0, 0.000
+Amphichthys cryptocentrus,16,3,0, 0.000
+Amphilius atesuensis,8,2,0, 0.000
+Amphilius jacksonii,4,1,0, 0.000
+Amphilius platychir,8,2,0, 0.000
+Amphilius uranoscopus,6,1,0, 0.000
+Amphilophus amarillo,156,19,3,15.789
+Amphilophus astorquii,10,2,0, 0.000
+Amphilophus chancho,54,7,0, 0.000
+Amphilophus citrinellus,208,25,8,32.000
+Amphilophus flaveolus,33,5,0, 0.000
+Amphilophus globosus,1,1,0, 0.000
+Amphilophus hogaboomorum,74,9,1,11.111
+Amphilophus labiatus,188,22,11,50.000
+Amphilophus lyonsi,99,11,2,18.182
+Amphilophus margaritifer,9,2,0, 0.000
+Amphilophus sagittae,74,9,0, 0.000
+Amphilophus tolteca,7,1,0, 0.000
+Amphilophus xiloaensis,36,5,0, 0.000
+Amphilophus zaliosus,51,7,0, 0.000
+Amphiprion akallopisos,101,12,2,16.667
+Amphiprion akindynos,76,9,1,11.111
+Amphiprion allardi,49,6,0, 0.000
+Amphiprion barberi,85,10,0, 0.000
+Amphiprion bicinctus,172,20,12,60.000
+Amphiprion chagosensis,14,2,0, 0.000
+Amphiprion chrysogaster,56,8,0, 0.000
+Amphiprion chrysopterus,112,13,6,46.154
+Amphiprion clarkii,85,10,1,10.000
+Amphiprion ephippium,88,10,5,50.000
+Amphiprion frenatus,77,9,2,22.222
+Amphiprion fuscocaudatus,13,2,0, 0.000
+Amphiprion latezonatus,48,6,0, 0.000
+Amphiprion latifasciatus,48,6,0, 0.000
+Amphiprion leucokranos,31,4,0, 0.000
+Amphiprion mccullochi,23,4,0, 0.000
+Amphiprion melanopus,64,7,0, 0.000
+Amphiprion nigripes,91,10,3,30.000
+Amphiprion ocellaris,31,4,0, 0.000
+Amphiprion omanensis,40,6,0, 0.000
+Amphiprion pacificus,26,4,0, 0.000
+Amphiprion percula,24,4,0, 0.000
+Amphiprion perideraion,105,12,4,33.333
+Amphiprion polymnus,69,8,0, 0.000
+Amphiprion rubrocinctus,21,3,0, 0.000
+Amphiprion sandaracinos,104,12,7,58.333
+Amphiprion sebae,66,7,1,14.286
+Amphiprion thiellei,20,3,0, 0.000
+Amphiprion tricinctus,40,5,0, 0.000
+Amphistichus argenteus,56,8,0, 0.000
+Amphistichus koelzi,12,2,0, 0.000
+Amphistichus rhodoterus,57,8,0, 0.000
+Amsichthys knighti,8,1,0, 0.000
+Anabarilius alburnops,1,1,0, 0.000
+Anabarilius grahami,7,1,0, 0.000
+Anabas cobojius,15,3,0, 0.000
+Anabas testudineus,262,31,19,61.290
+Anableps anableps,167,20,14,70.000
+Anableps dowei,20,3,0, 0.000
+Anableps microlepis,23,3,1,33.333
+Anablepsoides amphoreus,5,1,0, 0.000
+Anablepsoides atratus,2,1,0, 0.000
+Anablepsoides beniensis,4,1,0, 0.000
+Anablepsoides christinae,1,1,0, 0.000
+Anablepsoides cryptocallus,2,1,0, 0.000
+Anablepsoides derhami,4,1,0, 0.000
+Anablepsoides hartii,19,3,1,33.333
+Anablepsoides igneus,9,2,0, 0.000
+Anablepsoides immaculatus,1,1,0, 0.000
+Anablepsoides lanceolatus,1,1,0, 0.000
+Anablepsoides ornatus,7,2,0, 0.000
+Anablepsoides rubrolineatus,4,1,0, 0.000
+Anablepsoides stagnatus,5,1,0, 0.000
+Anablepsoides urophthalmus,8,1,0, 0.000
+Anablepsoides waimacui,2,1,0, 0.000
+Anablepsoides xinguensis,1,1,0, 0.000
+Anacanthobatis folirostris,3,1,0, 0.000
+Anacanthus barbatus,25,4,0, 0.000
+Anadoras grypus,16,3,0, 0.000
+Anadoras regani,1,1,0, 0.000
+Anadoras weddellii,12,2,0, 0.000
+Anaecypris hispanica,107,13,0, 0.000
+Anampses caeruleopunctatus,90,10,3,30.000
+Anampses chrysocephalus,64,7,1,14.286
+Anampses cuvier,120,15,2,13.333
+Anampses elegans,52,7,0, 0.000
+Anampses femininus,115,14,6,42.857
+Anampses geographicus,21,3,0, 0.000
+Anampses lennardi,137,16,7,43.750
+Anampses lineatus,46,6,0, 0.000
+Anampses melanurus,83,9,0, 0.000
+Anampses meleagrides,92,11,6,54.545
+Anampses neoguinaicus,74,8,5,62.500
+Anampses twistii,108,13,2,15.385
+Anaora tentaculata,8,2,0, 0.000
+Anarchias allardicei,1,1,0, 0.000
+Anarchias euryurus,6,1,0, 0.000
+Anarchias galapagensis,13,2,0, 0.000
+Anarchias leucurus,42,6,4,66.667
+Anarchias seychellensis,18,3,0, 0.000
+Anarchias supremus,3,1,0, 0.000
+Anarhichas denticulatus,56,8,0, 0.000
+Anarhichas lupus,180,22,13,59.091
+Anarhichas minor,129,16,2,12.500
+Anarhichas orientalis,132,16,6,37.500
+Anarrhichthys ocellatus,219,26,19,73.077
+Anatolanthias apiomycter,4,1,0, 0.000
+Ancharius fuscus,1,1,0, 0.000
+Anchichoerops natalensis,8,1,0, 0.000
+Anchicyclocheilus halfibindus,3,1,0, 0.000
+Anchoa cubana,8,2,0, 0.000
+Anchoa curta,1,1,0, 0.000
+Anchoa hepsetus,21,3,1,33.333
+Anchoa ischana,4,1,0, 0.000
+Anchoa lucida,3,1,0, 0.000
+Anchoa lyolepis,8,1,0, 0.000
+Anchoa marinii,4,1,0, 0.000
+Anchoa mitchilli,50,7,1,14.286
+Anchoa nasus,18,3,0, 0.000
+Anchoa parva,32,5,0, 0.000
+Anchoa pectoralis,23,3,0, 0.000
+Anchoa tricolor,3,1,0, 0.000
+Anchovia clupeoides,1,1,0, 0.000
+Anchovia macrolepidota,6,1,0, 0.000
+Anchovia surinamensis,1,1,0, 0.000
+Anchoviella alleni,14,2,0, 0.000
+Anchoviella balboae,5,1,0, 0.000
+Anchoviella lepidentostole,24,3,0, 0.000
+Anchoviella perfasciata,1,1,0, 0.000
+Ancistrogobius squamiceps,1,1,0, 0.000
+Ancistrogobius yoshigoui,2,1,0, 0.000
+Ancistrus aguaboensis,44,6,0, 0.000
+Ancistrus bolivianus,9,2,0, 0.000
+Ancistrus brevifilis,1,1,0, 0.000
+Ancistrus bufonius,1,1,0, 0.000
+Ancistrus caucanus,9,2,0, 0.000
+Ancistrus chagresi,5,1,0, 0.000
+Ancistrus cirrhosus,108,13,3,23.077
+Ancistrus claro,113,13,0, 0.000
+Ancistrus cryptophthalmus,12,2,1,50.000
+Ancistrus cuiabae,16,3,0, 0.000
+Ancistrus damasceni,2,1,0, 0.000
+Ancistrus dolichopterus,97,11,0, 0.000
+Ancistrus dubius,1,1,0, 0.000
+Ancistrus falconensis,1,1,0, 0.000
+Ancistrus formoso,24,3,0, 0.000
+Ancistrus greeni,125,15,2,13.333
+Ancistrus gymnorhynchus,12,2,0, 0.000
+Ancistrus hoplogenys,81,9,1,11.111
+Ancistrus latifrons,4,1,0, 0.000
+Ancistrus leucostictus,62,7,0, 0.000
+Ancistrus lineolatus,9,2,0, 0.000
+Ancistrus macrophthalmus,23,4,0, 0.000
+Ancistrus maculatus,115,14,0, 0.000
+Ancistrus maracasae,1,1,0, 0.000
+Ancistrus marcapatae,7,2,0, 0.000
+Ancistrus martini,16,3,0, 0.000
+Ancistrus minutus,3,1,0, 0.000
+Ancistrus montanus,2,1,0, 0.000
+Ancistrus multispinis,58,8,0, 0.000
+Ancistrus nudiceps,4,1,0, 0.000
+Ancistrus occidentalis,23,4,0, 0.000
+Ancistrus pirareta,18,3,0, 0.000
+Ancistrus ranunculus,135,16,6,37.500
+Ancistrus reisi,1,1,0, 0.000
+Ancistrus salgadae,1,1,0, 0.000
+Ancistrus sericeus,8,2,0, 0.000
+Ancistrus spinosus,47,6,0, 0.000
+Ancistrus stigmaticus,3,1,0, 0.000
+Ancistrus tamboensis,48,6,0, 0.000
+Ancistrus temminckii,125,15,2,13.333
+Ancistrus triradiatus,74,8,1,12.500
+Ancylopsetta cycloidea,3,1,0, 0.000
+Ancylopsetta dendritica,7,1,0, 0.000
+Ancylopsetta dilecta,24,3,1,33.333
+Ancylopsetta ommata,12,2,0, 0.000
+Andamia reyi,6,1,0, 0.000
+Andamia tetradactylus,7,2,0, 0.000
+Andeancistrus platycephalus,1,1,0, 0.000
+Andinoacara biseriatus,18,3,0, 0.000
+Andinoacara blombergi,1,1,0, 0.000
+Andinoacara coeruleopunctatus,12,2,0, 0.000
+Andinoacara latifrons,97,11,0, 0.000
+Andinoacara pulcher,188,22,13,59.091
+Andinoacara rivulatus,226,26,19,73.077
+Andinoacara sapayensis,4,1,0, 0.000
+Andinoacara stalsbergi,65,8,0, 0.000
+Andriashevicottus megacephalus,1,1,0, 0.000
+Anduzedoras oxyrhynchus,4,1,0, 0.000
+Anematichthys repasson,1,1,0, 0.000
+Anguilla anguilla,241,28,18,64.286
+Anguilla australis,120,15,1, 6.667
+Anguilla bengalensis,147,18,1, 5.556
+Anguilla bicolor,51,7,0, 0.000
+Anguilla borneensis,7,1,0, 0.000
+Anguilla celebesensis,8,2,0, 0.000
+Anguilla dieffenbachii,98,11,2,18.182
+Anguilla interioris,2,1,0, 0.000
+Anguilla japonica,90,10,2,20.000
+Anguilla labiata,19,3,0, 0.000
+Anguilla luzonensis,3,1,0, 0.000
+Anguilla malgumora,7,1,0, 0.000
+Anguilla marmorata,138,16,8,50.000
+Anguilla megastoma,5,1,0, 0.000
+Anguilla mossambica,31,4,0, 0.000
+Anguilla nebulosa,48,6,0, 0.000
+Anguilla obscura,26,4,0, 0.000
+Anguilla reinhardtii,77,9,0, 0.000
+Anguilla rostrata,195,22,6,27.273
+Anisarchus medius,14,2,1,50.000
+Anisochromis kenyae,6,1,0, 0.000
+Anisotremus caesius,14,2,0, 0.000
+Anisotremus davidsonii,68,8,1,12.500
+Anisotremus interruptus,184,22,13,59.091
+Anisotremus moricandi,19,3,0, 0.000
+Anisotremus scapularis,24,3,0, 0.000
+Anisotremus surinamensis,221,26,3,11.538
+Anisotremus taeniatus,134,16,3,18.750
+Anisotremus virginicus,291,35,17,48.571
+Annamia normani,74,8,0, 0.000
+Annamia thuathienensis,1,1,0, 0.000
+Anodontiglanis dahli,11,2,0, 0.000
+Anodontostoma chacunda,34,5,0, 0.000
+Anodus elongatus,5,1,0, 0.000
+Anomalochromis thomasi,244,29,22,75.862
+Anomalops katoptron,72,8,2,25.000
+Anoplarchus insignis,7,1,0, 0.000
+Anoplarchus purpurescens,33,5,1,20.000
+Anoplocapros amygdaloides,16,3,1,33.333
+Anoplocapros inermis,93,11,5,45.455
+Anoplocapros lenticularis,75,9,0, 0.000
+Anoplogaster brachycera,34,5,0, 0.000
+Anoplogaster cornuta,129,16,12,75.000
+Anoplopoma fimbria,106,13,2,15.385
+Anoptoplacus pygmaeus,4,1,0, 0.000
+Anostomoides laticeps,3,1,0, 0.000
+Anostomus anostomus,110,13,10,76.923
+Anostomus brevior,7,1,0, 0.000
+Anostomus ternetzi,80,9,1,11.111
+Anotopterus nikparini,6,1,0, 0.000
+Anotopterus pharao,16,3,0, 0.000
+Anoxypristis cuspidata,127,15,6,40.000
+Antennarius biocellatus,65,8,0, 0.000
+Antennarius commerson,162,19,16,84.211
+Antennarius hispidus,48,6,0, 0.000
+Antennarius indicus,14,2,0, 0.000
+Antennarius maculatus,61,7,2,28.571
+Antennarius multiocellatus,106,12,3,25.000
+Antennarius pardalis,31,4,0, 0.000
+Antennarius pauciradiatus,15,3,0, 0.000
+Antennarius pictus,125,15,7,46.667
+Antennarius randalli,52,7,3,42.857
+Antennarius striatus,98,12,10,83.333
+Antennatus analis,32,5,3,60.000
+Antennatus bermudensis,7,2,0, 0.000
+Antennatus coccineus,27,4,0, 0.000
+Antennatus dorehensis,4,1,0, 0.000
+Antennatus linearis,2,1,0, 0.000
+Antennatus nummifer,22,3,0, 0.000
+Antennatus rosaceus,28,4,4,100.000
+Antennatus sanguineus,54,7,0, 0.000
+Antennatus tuberosus,7,2,0, 0.000
+Anthias anthias,455,55,47,85.455
+Anthias asperilinguis,12,2,0, 0.000
+Anthias cyprinoides,14,2,0, 0.000
+Anthias nicholsi,8,1,0, 0.000
+Anthias noeli,11,2,0, 0.000
+Anthias woodsi,30,4,0, 0.000
+Antigonia capros,88,10,1,10.000
+Antigonia combatia,2,1,0, 0.000
+Antigonia eos,6,1,0, 0.000
+Antigonia rubescens,31,4,2,50.000
+Antigonia rubicunda,23,3,0, 0.000
+Antilligobius nikkiae,28,4,0, 0.000
+Antimora microlepis,22,3,0, 0.000
+Antimora rostrata,43,6,1,16.667
+Anyperodon leucogrammicus,322,38,17,44.737
+Apareiodon affinis,65,7,2,28.571
+Apareiodon hasemani,2,1,0, 0.000
+Apareiodon vittatus,3,1,0, 0.000
+Apeltes quadracus,49,7,1,14.286
+Aphanius almiriensis,8,1,0, 0.000
+Aphanius anatoliae,42,6,3,50.000
+Aphanius apodus,14,2,0, 0.000
+Aphanius arakensis,22,3,1,33.333
+Aphanius asquamatus,13,2,0, 0.000
+Aphanius baeticus,52,7,0, 0.000
+Aphanius danfordii,18,3,0, 0.000
+Aphanius dispar,145,18,4,22.222
+Aphanius farsicus,32,4,2,50.000
+Aphanius fasciatus,161,19,6,31.579
+Aphanius furcatus,1,1,0, 0.000
+Aphanius ginaonis,9,2,0, 0.000
+Aphanius iberus,159,19,11,57.895
+Aphanius isfahanensis,4,1,0, 0.000
+Aphanius marassantensis,2,1,0, 0.000
+Aphanius mento,78,9,4,44.444
+Aphanius mesopotamicus,5,1,0, 0.000
+Aphanius punctatus,6,1,0, 0.000
+Aphanius saourensis,9,2,0, 0.000
+Aphanius sirhani,21,3,0, 0.000
+Aphanius sophiae,19,3,0, 0.000
+Aphanius splendens,31,4,0, 0.000
+Aphanius sureyanus,15,2,0, 0.000
+Aphanius transgrediens,25,4,0, 0.000
+Aphanius villwocki,16,3,0, 0.000
+Aphanius vladykovi,31,4,0, 0.000
+Aphanopus carbo,99,12,2,16.667
+Aphanotorulus ammophilus,56,8,1,12.500
+Aphanotorulus unicolor,18,3,0, 0.000
+Aphareus furca,81,9,5,55.556
+Aphareus rutilans,88,10,5,50.000
+Aphia minuta,150,18,4,22.222
+Aphos porosus,10,2,0, 0.000
+Aphredoderus sayanus,172,20,9,45.000
+Aphyocharax agassizii,16,2,0, 0.000
+Aphyocharax alburnus,68,8,4,50.000
+Aphyocharax anisitsi,153,18,13,72.222
+Aphyocharax dentatus,25,4,0, 0.000
+Aphyocharax erythrurus,9,2,0, 0.000
+Aphyocharax gracilis,19,3,0, 0.000
+Aphyocharax nattereri,99,12,4,33.333
+Aphyocharax rathbuni,144,17,4,23.529
+Aphyocypris amnis,4,1,0, 0.000
+Aphyocypris chinensis,49,6,0, 0.000
+Aphyocypris kikuchii,52,7,2,28.571
+Aphyocypris lini,15,2,0, 0.000
+Aphyocypris moltrechti,1,1,0, 0.000
+Aphyolebias boticarioi,7,1,0, 0.000
+Aphyolebias peruensis,72,8,3,37.500
+Aphyolebias rubrocaudatus,32,4,1,25.000
+Aphyolebias schleseri,9,2,0, 0.000
+Aphyonus gelatinosus,16,3,0, 0.000
+Aphyosemion abacinum,22,3,0, 0.000
+Aphyosemion ahli,53,7,3,42.857
+Aphyosemion alpha,17,3,0, 0.000
+Aphyosemion amoenum,14,2,0, 0.000
+Aphyosemion aureum,8,1,0, 0.000
+Aphyosemion australe,183,22,18,81.818
+Aphyosemion bamilekorum,15,2,0, 0.000
+Aphyosemion batesii,31,4,0, 0.000
+Aphyosemion bitaeniatum,93,11,5,45.455
+Aphyosemion bitteri,3,1,0, 0.000
+Aphyosemion bivittatum,83,9,3,33.333
+Aphyosemion bualanum,19,3,0, 0.000
+Aphyosemion callipteron,8,2,0, 0.000
+Aphyosemion calliurum,37,5,0, 0.000
+Aphyosemion cameronense,23,3,0, 0.000
+Aphyosemion campomaanense,3,1,0, 0.000
+Aphyosemion castaneum,10,2,0, 0.000
+Aphyosemion caudofasciatum,8,1,0, 0.000
+Aphyosemion celiae,81,10,3,30.000
+Aphyosemion christyi,31,4,0, 0.000
+Aphyosemion citrineipinnis,10,2,0, 0.000
+Aphyosemion coeleste,24,3,1,33.333
+Aphyosemion cognatum,53,7,3,42.857
+Aphyosemion congicum,13,2,0, 0.000
+Aphyosemion cyanostictum,24,4,0, 0.000
+Aphyosemion dargei,22,3,0, 0.000
+Aphyosemion decorsei,12,2,0, 0.000
+Aphyosemion edeanum,7,1,0, 0.000
+Aphyosemion elberti,58,8,3,37.500
+Aphyosemion elegans,24,3,0, 0.000
+Aphyosemion erythron,5,1,0, 0.000
+Aphyosemion escherichi,4,1,0, 0.000
+Aphyosemion etsamense,2,1,0, 0.000
+Aphyosemion exigoideum,19,3,0, 0.000
+Aphyosemion exiguum,22,3,0, 0.000
+Aphyosemion franzwerneri,7,2,0, 0.000
+Aphyosemion fulgens,46,6,1,16.667
+Aphyosemion gabunense,93,11,4,36.364
+Aphyosemion georgiae,40,5,1,20.000
+Aphyosemion heinemanni,2,1,0, 0.000
+Aphyosemion hera,103,12,3,25.000
+Aphyosemion herzogi,19,3,0, 0.000
+Aphyosemion hofmanni,1,1,0, 0.000
+Aphyosemion jeanhuberi,7,2,0, 0.000
+Aphyosemion joergenscheeli,16,2,2,100.000
+Aphyosemion kouamense,5,1,0, 0.000
+Aphyosemion koungueense,4,1,0, 0.000
+Aphyosemion labarrei,24,4,0, 0.000
+Aphyosemion lamberti,16,2,0, 0.000
+Aphyosemion lefiniense,3,1,0, 0.000
+Aphyosemion lividum,7,2,0, 0.000
+Aphyosemion loennbergii,27,4,0, 0.000
+Aphyosemion louessense,44,6,0, 0.000
+Aphyosemion lugens,7,1,0, 0.000
+Aphyosemion maculatum,15,2,0, 0.000
+Aphyosemion malumbresi,8,1,0, 0.000
+Aphyosemion melanogaster,3,1,0, 0.000
+Aphyosemion melinoeides,7,1,0, 0.000
+Aphyosemion mengilai,2,1,0, 0.000
+Aphyosemion mimbon,16,3,0, 0.000
+Aphyosemion musafirii,2,1,0, 0.000
+Aphyosemion ocellatum,45,6,0, 0.000
+Aphyosemion ogoense,52,7,1,14.286
+Aphyosemion omega,8,1,0, 0.000
+Aphyosemion pamaense,17,3,0, 0.000
+Aphyosemion pascheni,26,4,2,50.000
+Aphyosemion passaroi,6,1,0, 0.000
+Aphyosemion plagitaenium,1,1,0, 0.000
+Aphyosemion poliaki,51,7,0, 0.000
+Aphyosemion polli,12,2,0, 0.000
+Aphyosemion primigenium,74,8,1,12.500
+Aphyosemion punctatum,18,3,0, 0.000
+Aphyosemion punctulatum,8,1,0, 0.000
+Aphyosemion raddai,2,1,0, 0.000
+Aphyosemion rectogoense,14,2,0, 0.000
+Aphyosemion riggenbachi,40,6,2,33.333
+Aphyosemion schioetzi,6,1,0, 0.000
+Aphyosemion schoutedeni,31,4,0, 0.000
+Aphyosemion seegersi,4,1,0, 0.000
+Aphyosemion splendopleure,120,15,5,33.333
+Aphyosemion striatum,117,14,7,50.000
+Aphyosemion thysi,14,2,0, 0.000
+Aphyosemion tirbaki,5,1,0, 0.000
+Aphyosemion trilineatus,22,3,0, 0.000
+Aphyosemion volcanum,46,6,2,33.333
+Aphyosemion wachtersi,10,2,0, 0.000
+Aphyosemion wildekampi,2,1,0, 0.000
+Apistogramma acrensis,24,3,0, 0.000
+Apistogramma agassizii,233,27,13,48.148
+Apistogramma aguarico,7,2,0, 0.000
+Apistogramma alacrina,106,12,3,25.000
+Apistogramma allpahuayo,38,5,0, 0.000
+Apistogramma arua,36,5,1,20.000
+Apistogramma atahualpa,105,12,4,33.333
+Apistogramma baenschi,129,16,13,81.250
+Apistogramma barlowi,108,13,2,15.385
+Apistogramma bitaeniata,169,20,12,60.000
+Apistogramma borellii,221,26,20,76.923
+Apistogramma brevis,112,13,1, 7.692
+Apistogramma cacatuoides,204,24,22,91.667
+Apistogramma caetei,70,8,0, 0.000
+Apistogramma cinilabra,35,5,0, 0.000
+Apistogramma commbrae,74,9,0, 0.000
+Apistogramma cruzi,72,8,0, 0.000
+Apistogramma diplotaenia,91,11,9,81.818
+Apistogramma elizabethae,146,18,7,38.889
+Apistogramma eremnopyge,90,11,2,18.182
+Apistogramma erythrura,73,9,0, 0.000
+Apistogramma eunotus,74,9,3,33.333
+Apistogramma flabellicauda,18,3,2,66.667
+Apistogramma geisleri,44,6,0, 0.000
+Apistogramma gephyra,76,9,1,11.111
+Apistogramma gibbiceps,91,11,7,63.636
+Apistogramma gossei,105,12,0, 0.000
+Apistogramma guttata,88,10,4,40.000
+Apistogramma helkeri,9,2,0, 0.000
+Apistogramma hippolytae,34,5,0, 0.000
+Apistogramma hoignei,111,13,2,15.385
+Apistogramma hongsloi,154,19,9,47.368
+Apistogramma huascar,52,7,0, 0.000
+Apistogramma inconspicua,8,1,0, 0.000
+Apistogramma iniridae,52,7,3,42.857
+Apistogramma inornata,5,1,0, 0.000
+Apistogramma intermedia,24,4,0, 0.000
+Apistogramma juruensis,104,12,8,66.667
+Apistogramma kullanderi,30,4,0, 0.000
+Apistogramma lineata,37,5,0, 0.000
+Apistogramma linkei,25,4,0, 0.000
+Apistogramma luelingi,32,5,0, 0.000
+Apistogramma macmasteri,190,22,10,45.455
+Apistogramma martini,53,7,0, 0.000
+Apistogramma megaptera,32,4,1,25.000
+Apistogramma meinkeni,18,3,0, 0.000
+Apistogramma mendezi,114,13,7,53.846
+Apistogramma minima,51,7,0, 0.000
+Apistogramma moae,10,2,0, 0.000
+Apistogramma nijsseni,183,22,12,54.545
+Apistogramma norberti,74,8,0, 0.000
+Apistogramma ortegai,82,9,2,22.222
+Apistogramma ortmanni,18,3,0, 0.000
+Apistogramma panduro,175,21,12,57.143
+Apistogramma pantalone,23,3,0, 0.000
+Apistogramma paucisquamis,55,7,1,14.286
+Apistogramma paulmuelleri,25,4,0, 0.000
+Apistogramma payaminonis,8,1,0, 0.000
+Apistogramma pedunculata,24,4,0, 0.000
+Apistogramma personata,40,5,0, 0.000
+Apistogramma pertensis,77,9,0, 0.000
+Apistogramma piaroa,57,7,0, 0.000
+Apistogramma piauiensis,38,5,0, 0.000
+Apistogramma playayacu,13,2,0, 0.000
+Apistogramma pleurotaenia,1,1,0, 0.000
+Apistogramma pulchra,108,13,6,46.154
+Apistogramma regani,73,9,1,11.111
+Apistogramma resticulosa,10,2,0, 0.000
+Apistogramma rositae,57,8,0, 0.000
+Apistogramma rubrolineata,18,3,0, 0.000
+Apistogramma rupununi,31,4,0, 0.000
+Apistogramma salpinction,4,1,0, 0.000
+Apistogramma similis,133,16,1, 6.250
+Apistogramma staecki,55,7,0, 0.000
+Apistogramma steindachneri,93,11,0, 0.000
+Apistogramma taeniata,14,2,0, 0.000
+Apistogramma trifasciata,209,24,17,70.833
+Apistogramma tucurui,75,9,2,22.222
+Apistogramma uaupesi,87,10,4,40.000
+Apistogramma urteagai,11,2,0, 0.000
+Apistogramma velifera,80,9,1,11.111
+Apistogramma viejita,164,20,7,35.000
+Apistogramma wapisana,8,1,0, 0.000
+Apistogramma wolli,8,1,0, 0.000
+Apistogrammoides pucallpaensis,90,11,4,36.364
+Apistoloricaria condei,1,1,0, 0.000
+Apistoloricaria ommation,17,3,3,100.000
+Apistops caloundra,4,1,0, 0.000
+Apistus carinatus,99,12,6,50.000
+Aplatophis chauliodus,32,5,0, 0.000
+Aplatophis zorro,5,1,0, 0.000
+Apletodon dentatus,86,10,1,10.000
+Apletodon incognitus,15,2,0, 0.000
+Apletodon pellegrini,16,3,0, 0.000
+Aploactis aspera,7,2,0, 0.000
+Aploactisoma milesii,42,6,1,16.667
+Aplocheilichthys spilauchen,56,7,1,14.286
+Aplocheilus blockii,38,5,1,20.000
+Aplocheilus dayi,41,6,0, 0.000
+Aplocheilus kirchmayeri,16,3,0, 0.000
+Aplocheilus lineatus,130,16,11,68.750
+Aplocheilus panchax,145,17,8,47.059
+Aplocheilus parvus,23,4,2,50.000
+Aplocheilus werneri,31,4,0, 0.000
+Aplochiton taeniatus,4,1,0, 0.000
+Aplochiton zebra,18,3,0, 0.000
+Aplodactylus arctidens,32,4,0, 0.000
+Aplodactylus etheridgii,14,2,0, 0.000
+Aplodactylus lophodon,21,3,0, 0.000
+Aplodactylus punctatus,6,1,0, 0.000
+Aplodactylus westralis,3,1,0, 0.000
+Aplodinotus grunniens,211,26,7,26.923
+Apocryptes bato,31,4,0, 0.000
+Apocryptodon madurensis,12,2,0, 0.000
+Apocryptodon punctatus,38,5,2,40.000
+Apodichthys flavidus,25,4,0, 0.000
+Apodichthys fucorum,14,2,0, 0.000
+Apogon americanus,34,5,0, 0.000
+Apogon atradorsatus,67,8,4,50.000
+Apogon atricaudus,6,1,0, 0.000
+Apogon aurolineatus,16,2,0, 0.000
+Apogon axillaris,8,1,0, 0.000
+Apogon binotatus,68,8,0, 0.000
+Apogon campbelli,7,1,0, 0.000
+Apogon caudicinctus,6,1,0, 0.000
+Apogon coccineus,44,6,0, 0.000
+Apogon crassiceps,28,4,1,25.000
+Apogon dammermani,1,1,0, 0.000
+Apogon dhofar,5,1,0, 0.000
+Apogon dianthus,1,1,0, 0.000
+Apogon doryssa,28,4,0, 0.000
+Apogon dovii,7,1,0, 0.000
+Apogon erythrinus,73,8,1,12.500
+Apogon erythrosoma,8,2,0, 0.000
+Apogon gouldi,1,1,0, 0.000
+Apogon guadalupensis,32,4,0, 0.000
+Apogon imberbis,331,40,18,45.000
+Apogon indicus,20,3,0, 0.000
+Apogon lachneri,26,4,0, 0.000
+Apogon latus,61,7,0, 0.000
+Apogon leptocaulus,2,1,0, 0.000
+Apogon maculatus,152,18,3,16.667
+Apogon nitidus,7,2,0, 0.000
+Apogon pacificus,14,2,0, 0.000
+Apogon phenax,4,1,0, 0.000
+Apogon pillionatus,1,1,0, 0.000
+Apogon planifrons,8,2,0, 0.000
+Apogon posterofasciatus,3,1,0, 0.000
+Apogon pseudomaculatus,65,8,3,37.500
+Apogon quadrisquamatus,7,1,0, 0.000
+Apogon retrosella,15,3,0, 0.000
+Apogon seminigracaudus,3,1,0, 0.000
+Apogon semiornatus,31,4,2,50.000
+Apogon talboti,16,3,0, 0.000
+Apogon townsendi,34,5,1,20.000
+Apogon tricinctus,1,1,0, 0.000
+Apogon unicolor,9,2,0, 0.000
+Apogon unitaeniatus,2,1,0, 0.000
+Apogonichthyoides brevicaudatus,1,1,0, 0.000
+Apogonichthyoides cathetogramma,18,3,2,66.667
+Apogonichthyoides melas,20,3,1,33.333
+Apogonichthyoides niger,50,7,2,28.571
+Apogonichthyoides nigripinnis,2,1,0, 0.000
+Apogonichthyoides opercularis,1,1,0, 0.000
+Apogonichthyoides pharaonis,5,1,0, 0.000
+Apogonichthyoides sialis,2,1,0, 0.000
+Apogonichthyoides timorensis,1,1,0, 0.000
+Apogonichthyoides umbratilis,5,1,0, 0.000
+Apogonichthys ocellatus,8,1,0, 0.000
+Apogonichthys perdix,7,2,0, 0.000
+Apogonops anomalus,3,1,0, 0.000
+Apolemichthys arcuatus,135,16,4,25.000
+Apolemichthys armitagei,8,2,0, 0.000
+Apolemichthys griffisi,91,11,2,18.182
+Apolemichthys guezei,21,3,1,33.333
+Apolemichthys kingi,92,11,5,45.455
+Apolemichthys trimaculatus,215,26,16,61.538
+Apolemichthys xanthopunctatus,104,12,6,50.000
+Apolemichthys xanthotis,106,12,1, 8.333
+Apolemichthys xanthurus,128,15,6,40.000
+Aporops bilinearis,21,3,0, 0.000
+Aposturisoma myriodon,11,2,0, 0.000
+Aprion virescens,218,26,6,23.077
+Apristurus ampliceps,2,1,0, 0.000
+Apristurus australis,3,1,0, 0.000
+Apristurus brunneus,31,4,0, 0.000
+Apristurus bucephalus,1,1,0, 0.000
+Apristurus exsanguis,4,1,0, 0.000
+Apristurus fedorovi,1,1,0, 0.000
+Apristurus gibbosus,3,1,0, 0.000
+Apristurus herklotsi,6,1,0, 0.000
+Apristurus indicus,1,1,0, 0.000
+Apristurus kampae,7,1,0, 0.000
+Apristurus laurussonii,10,2,0, 0.000
+Apristurus longicephalus,4,1,0, 0.000
+Apristurus manis,8,1,0, 0.000
+Apristurus melanoasper,9,2,0, 0.000
+Apristurus micropterygeus,2,1,0, 0.000
+Apristurus parvipinnis,3,1,0, 0.000
+Apristurus pinguis,3,1,0, 0.000
+Apristurus platyrhynchus,5,1,0, 0.000
+Apristurus profundorum,9,2,0, 0.000
+Apristurus saldanha,2,1,0, 0.000
+Apsilus dentatus,23,3,0, 0.000
+Apterichtus anguiformis,7,1,0, 0.000
+Apterichtus caecus,26,4,0, 0.000
+Apterichtus equatorialis,8,2,2,100.000
+Apterichtus flavicaudus,6,1,0, 0.000
+Apterichtus klazingai,31,4,0, 0.000
+Apterichtus moseri,4,1,0, 0.000
+Apteronotus albifrons,135,16,10,62.500
+Apteronotus bonapartii,16,2,0, 0.000
+Apteronotus brasiliensis,12,2,0, 0.000
+Apteronotus cuchillo,32,5,0, 0.000
+Apteronotus galvisi,1,1,0, 0.000
+Apteronotus leptorhynchus,74,8,0, 0.000
+Apteronotus rostratus,9,2,0, 0.000
+Apterygocampus epinnulatus,8,1,0, 0.000
+Aptocyclus ventricosus,116,14,7,50.000
+Aptychotrema rostrata,105,12,6,50.000
+Aptychotrema timorensis,4,1,0, 0.000
+Aptychotrema vincentiana,25,4,0, 0.000
+Arabibarbus grypus,14,2,0, 0.000
+Aracana aurita,145,17,2,11.765
+Aracana ornata,188,22,9,40.909
+Araiocypris batodes,1,1,0, 0.000
+Arapaima agassizii,15,3,2,66.667
+Arapaima gigas,272,32,14,43.750
+Arapaima leptosoma,147,18,1, 5.556
+Arapaima mapae,208,25,6,24.000
+Archamia bleekeri,39,5,1,20.000
+Archiaphyosemion guineense,8,1,0, 0.000
+Archistes biseriatus,7,1,0, 0.000
+Archocentrus centrarchus,209,25,8,32.000
+Archoplites interruptus,122,15,4,26.667
+Archosargus pourtalesii,7,2,0, 0.000
+Archosargus probatocephalus,192,22,8,36.364
+Archosargus rhomboidalis,64,7,2,28.571
+Arcos erythrops,3,1,0, 0.000
+Arcos nudus,9,2,0, 0.000
+Arctogadus glacialis,69,8,0, 0.000
+Arctoscopus japonicus,105,13,2,15.385
+Arctozenus risso,13,2,0, 0.000
+Arcygobius baliurus,7,2,0, 0.000
+Arenigobius bifrenatus,24,3,0, 0.000
+Arenigobius frenatus,9,2,0, 0.000
+Arenigobius leftwichi,2,1,0, 0.000
+Argentina australiae,47,6,6,100.000
+Argentina brasiliensis,82,10,3,30.000
+Argentina brucei,1,1,0, 0.000
+Argentina elongata,32,5,0, 0.000
+Argentina georgei,3,1,0, 0.000
+Argentina kagoshimae,5,1,0, 0.000
+Argentina sialis,10,2,0, 0.000
+Argentina silus,85,10,1,10.000
+Argentina sphyraena,154,19,3,15.789
+Argentina stewarti,83,9,2,22.222
+Argentina striata,24,4,0, 0.000
+Argonectes longiceps,3,1,0, 0.000
+Argyripnus iridescens,1,1,0, 0.000
+Argyrocottus zanderi,4,1,0, 0.000
+Argyropelecus aculeatus,85,10,1,10.000
+Argyropelecus affinis,98,11,2,18.182
+Argyropelecus gigas,62,7,1,14.286
+Argyropelecus hemigymnus,114,14,2,14.286
+Argyropelecus lychnus,15,2,0, 0.000
+Argyropelecus olfersii,16,2,0, 0.000
+Argyropelecus sladeni,16,2,0, 0.000
+Argyrops bleekeri,21,3,0, 0.000
+Argyrops filamentosus,11,2,0, 0.000
+Argyrops spinifer,55,7,0, 0.000
+Argyrosomus amoyensis,2,1,0, 0.000
+Argyrosomus coronus,16,2,0, 0.000
+Argyrosomus heinii,1,1,0, 0.000
+Argyrosomus hololepidotus,121,15,0, 0.000
+Argyrosomus inodorus,24,4,0, 0.000
+Argyrosomus japonicus,209,25,3,12.000
+Argyrosomus regius,278,33,8,24.242
+Argyrosomus thorpei,4,1,0, 0.000
+Argyrozona argyrozona,21,3,0, 0.000
+Arhynchobatis asperrimus,2,1,0, 0.000
+Ariomma indicum,8,2,0, 0.000
+Ariomma luridum,11,2,1,50.000
+Ariomma melanum,3,1,0, 0.000
+Ariomma regulus,6,1,0, 0.000
+Ariopsis assimilis,8,2,0, 0.000
+Ariopsis felis,105,12,2,16.667
+Ariopsis guatemalensis,7,2,0, 0.000
+Ariopsis seemanni,228,27,8,29.630
+Ariosoma anago,28,4,0, 0.000
+Ariosoma anagoides,40,5,1,20.000
+Ariosoma balearicum,180,21,7,33.333
+Ariosoma fasciatum,10,2,0, 0.000
+Ariosoma gilberti,19,3,1,33.333
+Ariosoma howensis,2,1,0, 0.000
+Ariosoma marginatum,22,3,0, 0.000
+Ariosoma meeki,21,3,1,33.333
+Ariosoma mellissii,3,1,0, 0.000
+Ariosoma scheelei,7,2,0, 0.000
+Ariosoma selenops,2,1,0, 0.000
+Ariosoma shiroanago,4,1,0, 0.000
+Aristochromis christyi,290,35,21,60.000
+Aristostomias scintillans,12,2,0, 0.000
+Arius acutirostris,12,2,0, 0.000
+Arius africanus,7,1,0, 0.000
+Arius arenarius,6,1,0, 0.000
+Arius arius,16,3,0, 0.000
+Arius cous,8,1,0, 0.000
+Arius gagora,1,1,0, 0.000
+Arius gigas,16,3,0, 0.000
+Arius jella,4,1,0, 0.000
+Arius macracanthus,6,1,0, 0.000
+Arius maculatus,58,8,1,12.500
+Arius malabaricus,7,1,0, 0.000
+Arius manillensis,16,2,1,50.000
+Arius oetik,2,1,0, 0.000
+Arius venosus,21,3,0, 0.000
+Arnoglossus bassensis,7,1,0, 0.000
+Arnoglossus boops,5,1,0, 0.000
+Arnoglossus debilis,2,1,0, 0.000
+Arnoglossus imperialis,13,2,0, 0.000
+Arnoglossus kessleri,10,2,0, 0.000
+Arnoglossus laterna,91,10,2,20.000
+Arnoglossus macrolophus,1,1,0, 0.000
+Arnoglossus muelleri,1,1,0, 0.000
+Arnoglossus polyspilus,1,1,0, 0.000
+Arnoglossus scapha,8,1,0, 0.000
+Arnoglossus tapeinosoma,1,1,0, 0.000
+Arnoglossus tenuis,2,1,0, 0.000
+Arnoglossus thori,59,8,0, 0.000
+Arnoglossus yamanakai,8,2,0, 0.000
+Arnoldichthys spilopterus,93,11,6,54.545
+Arothron caeruleopunctatus,180,22,5,22.727
+Arothron carduus,2,1,0, 0.000
+Arothron diadematus,242,28,15,53.571
+Arothron firmamentum,54,7,1,14.286
+Arothron gillbanksii,8,2,0, 0.000
+Arothron hispidus,282,33,30,90.909
+Arothron immaculatus,169,20,6,30.000
+Arothron inconditus,8,2,0, 0.000
+Arothron leopardus,22,3,0, 0.000
+Arothron manilensis,208,25,14,56.000
+Arothron mappa,191,22,14,63.636
+Arothron meleagris,225,27,22,81.481
+Arothron multilineatus,34,5,0, 0.000
+Arothron nigropunctatus,245,29,18,62.069
+Arothron reticularis,104,12,2,16.667
+Arothron stellatus,267,32,26,81.250
+Arotrolepis filicauda,8,1,0, 0.000
+Arrhamphus sclerolepis,2,1,0, 0.000
+Arripis georgianus,57,8,0, 0.000
+Arripis trutta,163,19,3,15.789
+Arripis truttacea,20,3,0, 0.000
+Arripis xylabion,8,2,0, 0.000
+Artedidraco mirus,1,1,0, 0.000
+Artedidraco shackletoni,1,1,0, 0.000
+Artedidraco skottsbergi,3,1,0, 0.000
+Artediellus atlanticus,21,3,0, 0.000
+Artediellus camchaticus,2,1,0, 0.000
+Artediellus ochotensis,5,1,1,100.000
+Artediellus scaber,4,1,0, 0.000
+Artediellus uncinatus,8,2,0, 0.000
+Artedius corallinus,78,9,1,11.111
+Artedius fenestralis,11,2,0, 0.000
+Artedius harringtoni,75,9,1,11.111
+Artedius lateralis,40,6,0, 0.000
+Artedius notospilotus,3,1,0, 0.000
+Aruma histrio,2,1,0, 0.000
+Ascelichthys rhodorus,1,1,0, 0.000
+Aseraggodes herrei,4,1,0, 0.000
+Aseraggodes kaianus,8,1,0, 0.000
+Aseraggodes kobensis,8,2,0, 0.000
+Aseraggodes lenisquamis,3,1,0, 0.000
+Aseraggodes melanostictus,28,4,0, 0.000
+Aseraggodes therese,4,1,0, 0.000
+Aspasma minima,7,2,0, 0.000
+Aspasmichthys alorensis,8,1,0, 0.000
+Aspasmichthys ciconiae,16,3,0, 0.000
+Aspasmogaster costata,5,1,0, 0.000
+Aspasmogaster liorhyncha,4,1,0, 0.000
+Aspasmogaster tasmaniensis,19,3,1,33.333
+Aspidontus dussumieri,101,12,3,25.000
+Aspidontus taeniatus,232,27,16,59.259
+Aspidontus tractus,22,3,0, 0.000
+Aspidophoroides monopterygius,14,2,0, 0.000
+Aspidophoroides olrikii,5,1,0, 0.000
+Aspidoras albater,15,2,0, 0.000
+Aspidoras depinnai,12,2,0, 0.000
+Aspidoras eurycephalus,11,2,0, 0.000
+Aspidoras fuscoguttatus,50,7,3,42.857
+Aspidoras lakoi,3,1,0, 0.000
+Aspidoras menezesi,1,1,0, 0.000
+Aspidoras pauciradiatus,110,13,0, 0.000
+Aspidoras poecilus,12,2,0, 0.000
+Aspidoras raimundi,6,1,0, 0.000
+Aspidoras rochai,7,2,0, 0.000
+Aspidoras spilotus,121,14,1, 7.143
+Aspidoras taurus,71,8,0, 0.000
+Aspiolucius esocinus,14,2,0, 0.000
+Aspiorhynchus laticeps,5,1,0, 0.000
+Aspistor luniscutis,2,1,0, 0.000
+Aspistor quadriscutis,4,1,0, 0.000
+Aspredo aspredo,49,7,0, 0.000
+Asprocottus platycephalus,1,1,0, 0.000
+Assessor flavissimus,172,21,7,33.333
+Assessor macneilli,86,10,4,40.000
+Assessor randalli,31,4,0, 0.000
+Assiculus punctatus,2,1,0, 0.000
+Assurger anzac,20,3,1,33.333
+Astatheros macracanthus,129,16,0, 0.000
+Astatoreochromis alluaudi,314,38,23,60.526
+Astatoreochromis straeleni,16,2,0, 0.000
+Astatotilapia bloyeti,18,3,0, 0.000
+Astatotilapia burtoni,176,21,8,38.095
+Astatotilapia calliptera,297,36,13,36.111
+Astatotilapia desfontainii,19,3,0, 0.000
+Astatotilapia flaviijosephi,51,7,0, 0.000
+Astatotilapia stappersii,31,4,2,50.000
+Astatotilapia tchadensis,2,1,0, 0.000
+Astatotilapia tweddlei,1,1,0, 0.000
+Asterophysus batrachus,209,26,14,53.846
+Asterorhombus filifer,1,1,0, 0.000
+Asterorhombus intermedius,16,2,0, 0.000
+Asterropteryx atripes,12,2,0, 0.000
+Asterropteryx bipunctata,5,1,0, 0.000
+Asterropteryx ensifera,26,4,0, 0.000
+Asterropteryx semipunctata,73,9,4,44.444
+Asterropteryx spinosa,1,1,0, 0.000
+Asterropteryx striata,15,2,0, 0.000
+Astrapogon alutus,1,1,0, 0.000
+Astrapogon puncticulatus,2,1,0, 0.000
+Astrapogon stellatus,12,2,0, 0.000
+Astroblepus cyclopus,4,1,0, 0.000
+Astroblepus grixalvii,1,1,0, 0.000
+Astroblepus mancoi,3,1,0, 0.000
+Astroblepus pholeter,5,1,0, 0.000
+Astroblepus sabalo,9,2,0, 0.000
+Astroblepus ubidiai,5,1,0, 0.000
+Astrocottus matsubarae,1,1,0, 0.000
+Astrodoras asterifrons,16,2,0, 0.000
+Astronesthes atlanticus,2,1,0, 0.000
+Astronesthes cyaneus,4,1,0, 0.000
+Astronesthes gemmifer,4,1,0, 0.000
+Astronesthes ijimai,10,2,0, 0.000
+Astronesthes indopacificus,1,1,0, 0.000
+Astronesthes lucifer,8,2,0, 0.000
+Astronesthes macropogon,8,2,0, 0.000
+Astronesthes martensii,1,1,0, 0.000
+Astronesthes niger,7,1,0, 0.000
+Astronesthes richardsoni,1,1,0, 0.000
+Astronesthes similus,7,1,0, 0.000
+Astronotus crassipinnis,147,18,6,33.333
+Astronotus ocellatus,266,31,24,77.419
+Astroscopus guttatus,143,17,7,41.176
+Astroscopus y-graecum,76,9,1,11.111
+Astroscopus zephyreus,15,3,0, 0.000
+Astyanacinus moorii,1,1,0, 0.000
+Astyanax abramis,32,5,1,20.000
+Astyanax aeneus,52,7,0, 0.000
+Astyanax altiparanae,25,4,0, 0.000
+Astyanax anterior,12,2,0, 0.000
+Astyanax asuncionensis,6,1,0, 0.000
+Astyanax bifasciatus,18,3,0, 0.000
+Astyanax bimaculatus,111,13,2,15.385
+Astyanax dissensus,3,1,0, 0.000
+Astyanax dnophos,4,1,0, 0.000
+Astyanax eigenmanniorum,1,1,0, 0.000
+Astyanax elachylepis,4,1,0, 0.000
+Astyanax fasciatus,15,3,0, 0.000
+Astyanax festae,4,1,0, 0.000
+Astyanax guaporensis,2,1,0, 0.000
+Astyanax guianensis,7,2,0, 0.000
+Astyanax gymnogenys,10,2,0, 0.000
+Astyanax integer,45,6,2,33.333
+Astyanax intermedius,6,1,0, 0.000
+Astyanax jacuhiensis,4,1,0, 0.000
+Astyanax jenynsii,2,1,0, 0.000
+Astyanax jordani,138,17,5,29.412
+Astyanax kennedyi,1,1,0, 0.000
+Astyanax lacustris,10,2,0, 0.000
+Astyanax laticeps,1,1,0, 0.000
+Astyanax leopoldi,7,2,0, 0.000
+Astyanax lineatus,14,2,0, 0.000
+Astyanax magdalenae,2,1,0, 0.000
+Astyanax maximus,2,1,0, 0.000
+Astyanax mexicanus,133,16,8,50.000
+Astyanax microlepis,2,1,0, 0.000
+Astyanax minor,49,6,3,50.000
+Astyanax mutator,12,2,0, 0.000
+Astyanax myersi,8,1,0, 0.000
+Astyanax nicaraguensis,2,1,0, 0.000
+Astyanax novae,7,2,0, 0.000
+Astyanax paraguayensis,18,3,0, 0.000
+Astyanax paris,31,4,0, 0.000
+Astyanax pellegrini,1,1,0, 0.000
+Astyanax robustus,3,1,0, 0.000
+Astyanax ruberrimus,1,1,0, 0.000
+Astyanax scabripinnis,6,1,0, 0.000
+Astyanax siapae,1,1,0, 0.000
+Astyanax troya,2,1,0, 0.000
+Astyanax tupi,2,1,0, 0.000
+Astyanax unitaeniatus,21,3,0, 0.000
+Astyanax xavante,8,2,2,100.000
+Asymbolus analis,16,3,0, 0.000
+Asymbolus occiduus,2,1,0, 0.000
+Asymbolus vincenti,23,4,2,50.000
+Ataeniobius toweri,69,8,2,25.000
+Ataxolepis apus,2,1,0, 0.000
+Ateleopus japonicus,25,4,1,25.000
+Ateleopus tanabensis,1,1,0, 0.000
+Atelomycterus baliensis,16,3,0, 0.000
+Atelomycterus erdmanni,11,2,0, 0.000
+Atelomycterus fasciatus,7,1,0, 0.000
+Atelomycterus macleayi,45,6,0, 0.000
+Atelomycterus marmoratus,203,23,8,34.783
+Atelomycterus marnkalha,4,1,0, 0.000
+Atheresthes evermanni,30,4,0, 0.000
+Atheresthes stomias,162,19,4,21.053
+Atherina boyeri,159,19,6,31.579
+Atherina breviceps,4,1,0, 0.000
+Atherina hepsetus,217,26,10,38.462
+Atherina lopeziana,1,1,0, 0.000
+Atherina presbyter,214,26,4,15.385
+Atherinason hepsetoides,4,1,0, 0.000
+Atherinella brasiliensis,7,1,0, 0.000
+Atherinella chagresi,2,1,0, 0.000
+Atherinella eriarcha,5,1,0, 0.000
+Atherinella panamensis,7,1,0, 0.000
+Atherinella sardina,16,3,0, 0.000
+Atherinomorus aetholepis,1,1,0, 0.000
+Atherinomorus duodecimalis,48,6,1,16.667
+Atherinomorus endrachtensis,4,1,0, 0.000
+Atherinomorus insularum,5,1,0, 0.000
+Atherinomorus lacunosus,126,15,3,20.000
+Atherinomorus pinguis,1,1,0, 0.000
+Atherinomorus stipes,19,3,0, 0.000
+Atherinomorus vaigiensis,4,1,0, 0.000
+Atherinops affinis,81,10,1,10.000
+Atherinopsis californiensis,59,8,2,25.000
+Atherinosoma microstoma,14,2,0, 0.000
+Atherion elymus,52,7,1,14.286
+Atlantirivulus santensis,4,1,0, 0.000
+Atlantoraja castelnaui,34,5,0, 0.000
+Atlantoraja cyclophora,23,3,0, 0.000
+Atlantoraja platana,8,1,0, 0.000
+Atopochilus vogti,2,1,0, 0.000
+Atopodontus adriaensi,1,1,0, 0.000
+Atractodenchelys robinsorum,6,1,0, 0.000
+Atractoscion aequidens,23,4,0, 0.000
+Atractoscion nobilis,184,22,5,22.727
+Atractosteus spatula,304,36,21,58.333
+Atractosteus tristoechus,180,22,7,31.818
+Atractosteus tropicus,150,18,4,22.222
+Atrobucca brevis,5,1,0, 0.000
+Atrobucca geniae,5,1,0, 0.000
+Atrobucca nibe,38,5,4,80.000
+Atropus atropos,20,3,0, 0.000
+Atrosalarias fuscus,115,14,2,14.286
+Atrosalarias holomelas,9,2,0, 0.000
+Atule mate,168,20,11,55.000
+Atypichthys latus,41,6,0, 0.000
+Atypichthys strigatus,62,7,1,14.286
+Auchenionchus variolosus,3,1,0, 0.000
+Auchenipterichthys coracoideus,46,6,2,33.333
+Auchenipterichthys longimanus,8,1,0, 0.000
+Auchenipterichthys punctatus,8,2,0, 0.000
+Auchenipterichthys thoracatus,55,7,0, 0.000
+Auchenipterus ambyiacus,5,1,0, 0.000
+Auchenipterus demerarae,3,1,0, 0.000
+Auchenipterus dentatus,2,1,0, 0.000
+Auchenipterus nigripinnis,4,1,0, 0.000
+Auchenipterus nuchalis,12,2,0, 0.000
+Auchenipterus osteomystax,2,1,0, 0.000
+Auchenoceros punctatus,4,1,0, 0.000
+Auchenoglanis biscutatus,74,9,3,33.333
+Auchenoglanis occidentalis,176,21,11,52.381
+Aulacocephalus temminckii,23,3,0, 0.000
+Aulastomatomorpha phospherops,2,1,0, 0.000
+Aulichthys japonicus,16,2,0, 0.000
+Aulohalaelurus kanakorum,1,1,0, 0.000
+Aulohalaelurus labiosus,5,1,0, 0.000
+Aulonocara aquilonium,150,18,4,22.222
+Aulonocara auditor,23,3,0, 0.000
+Aulonocara baenschi,276,33,22,66.667
+Aulonocara brevinidus,145,18,5,27.778
+Aulonocara brevirostre,7,2,0, 0.000
+Aulonocara ethelwynnae,169,20,5,25.000
+Aulonocara gertrudae,241,29,6,20.690
+Aulonocara guentheri,78,9,0, 0.000
+Aulonocara hansbaenschi,212,26,11,42.308
+Aulonocara hueseri,158,19,3,15.789
+Aulonocara jacobfreibergi,314,37,26,70.270
+Aulonocara kandeensis,230,27,8,29.630
+Aulonocara koningsi,181,22,4,18.182
+Aulonocara korneliae,159,19,7,36.842
+Aulonocara maylandi,241,29,12,41.379
+Aulonocara nyassae,262,31,12,38.710
+Aulonocara rostratum,119,14,2,14.286
+Aulonocara saulosi,278,33,3, 9.091
+Aulonocara steveni,279,33,18,54.545
+Aulonocara stonemani,20,3,0, 0.000
+Aulonocara stuartgranti,310,37,6,16.216
+Aulonocara trematocephalum,7,1,0, 0.000
+Aulonocranus dewindti,222,26,12,46.154
+Aulopareia unicolor,1,1,0, 0.000
+Aulopus bajacali,27,4,2,50.000
+Aulopus filamentosus,62,7,1,14.286
+Aulopyge huegelii,22,3,1,33.333
+Aulorhynchus flavidus,59,8,1,12.500
+Aulostomus chinensis,305,37,20,54.054
+Aulostomus maculatus,281,33,25,75.758
+Aulostomus strigosus,212,26,6,23.077
+Aulotrachichthys atlanticus,2,1,0, 0.000
+Aulotrachichthys prosthemius,19,3,0, 0.000
+Aurigequula fasciata,21,3,1,33.333
+Auriglobus modestus,106,12,4,33.333
+Auriglobus nefastus,57,7,0, 0.000
+Auriglobus silus,28,4,0, 0.000
+Australoheros acaroides,2,1,0, 0.000
+Australoheros autrani,4,1,0, 0.000
+Australoheros capixaba,1,1,0, 0.000
+Australoheros facetus,187,22,2, 9.091
+Australoheros kaaygua,1,1,0, 0.000
+Australoheros robustus,1,1,0, 0.000
+Australoheros sanguineus,5,1,0, 0.000
+Australoheros scitulus,49,7,0, 0.000
+Australoheros taura,5,1,0, 0.000
+Australoheros tembe,8,2,0, 0.000
+Australoheros ykeregua,4,1,0, 0.000
+Austrobatrachus foedus,7,1,0, 0.000
+Austrofundulus guajira,15,3,0, 0.000
+Austrofundulus leohoignei,9,2,0, 0.000
+Austrofundulus limnaeus,11,2,0, 0.000
+Austrofundulus myersi,2,1,0, 0.000
+Austrofundulus transilis,3,1,0, 0.000
+Austroglanis barnardi,3,1,0, 0.000
+Austroglanis gilli,6,1,0, 0.000
+Austroglanis sclateri,9,2,0, 0.000
+Austroglossus microlepis,1,1,0, 0.000
+Austroglossus pectoralis,9,2,0, 0.000
+Austrolabrus maculatus,55,7,2,28.571
+Austrolebias adloffi,23,4,0, 0.000
+Austrolebias affinis,49,6,1,16.667
+Austrolebias alexandri,78,9,5,55.556
+Austrolebias arachan,2,1,0, 0.000
+Austrolebias bellottii,78,9,2,22.222
+Austrolebias carvalhoi,7,1,0, 0.000
+Austrolebias charrua,24,4,0, 0.000
+Austrolebias cheradophilus,4,1,0, 0.000
+Austrolebias cinereus,4,1,0, 0.000
+Austrolebias duraznensis,6,1,0, 0.000
+Austrolebias elongatus,28,4,0, 0.000
+Austrolebias gymnoventris,7,1,0, 0.000
+Austrolebias ibicuiensis,10,2,0, 0.000
+Austrolebias juanlangi,10,2,0, 0.000
+Austrolebias luteoflammulatus,15,2,0, 0.000
+Austrolebias melanoorus,4,1,0, 0.000
+Austrolebias minuano,4,1,0, 0.000
+Austrolebias monstrosus,4,1,0, 0.000
+Austrolebias nigripinnis,156,19,10,52.632
+Austrolebias nigrofasciatus,4,1,0, 0.000
+Austrolebias patriciae,9,2,0, 0.000
+Austrolebias paucisquama,15,3,0, 0.000
+Austrolebias periodicus,6,1,0, 0.000
+Austrolebias prognathus,2,1,0, 0.000
+Austrolebias quirogai,4,1,0, 0.000
+Austrolebias reicherti,3,1,0, 0.000
+Austrolebias robustus,31,4,0, 0.000
+Austrolebias toba,6,1,0, 0.000
+Austrolebias vandenbergi,19,3,1,33.333
+Austrolebias vazferreirai,4,1,0, 0.000
+Austrolebias viarius,5,1,0, 0.000
+Austrolebias wolterstorffi,12,2,1,50.000
+Austrolethops wardi,19,3,0, 0.000
+Austrolycus laticinctus,3,1,0, 0.000
+Auxis brachydorax,19,3,0, 0.000
+Auxis eudorax,8,1,0, 0.000
+Auxis rochei,186,22,6,27.273
+Auxis thazard,252,30,13,43.333
+Avocettina infans,7,1,0, 0.000
+Awaous acritosus,8,1,0, 0.000
+Awaous banana,16,3,0, 0.000
+Awaous commersoni,5,1,0, 0.000
+Awaous flavus,118,14,6,42.857
+Awaous fluviatilis,3,1,0, 0.000
+Awaous grammepomus,16,2,0, 0.000
+Awaous guamensis,30,4,0, 0.000
+Awaous lateristriga,31,4,0, 0.000
+Awaous melanocephalus,16,2,0, 0.000
+Awaous ocellaris,44,6,0, 0.000
+Awaous stamineus,8,1,0, 0.000
+Awaous tajasica,2,1,0, 0.000
+Axelrodia riesei,163,20,8,40.000
+Axelrodia stigmatias,106,13,3,23.077
+Axoclinus lucillae,13,2,0, 0.000
+Axoclinus storeyae,3,1,0, 0.000
+Ayarnangra estuarius,1,1,0, 0.000
+Aztecula sallaei,2,1,0, 0.000
+Azurina eupalama,20,3,0, 0.000
+Azurina hirundo,28,4,0, 0.000
+Azygopus pinnifasciatus,1,1,0, 0.000
+Babka gymnotrachelus,41,6,1,16.667
+Badis assamensis,52,7,1,14.286
+Badis autumnum,23,3,2,66.667
+Badis badis,100,12,6,50.000
+Badis blosyrus,18,3,2,66.667
+Badis britzi,7,2,0, 0.000
+Badis corycaeus,7,1,0, 0.000
+Badis ferrarisi,4,1,0, 0.000
+Badis juergenschmidti,8,2,0, 0.000
+Badis khwae,8,2,0, 0.000
+Badis laspiophilus,4,1,0, 0.000
+Badis pyema,7,1,0, 0.000
+Badis ruber,62,7,0, 0.000
+Badis siamensis,64,7,0, 0.000
+Badis singenensis,24,4,0, 0.000
+Badis soraya,16,2,0, 0.000
+Badis tuivaiei,14,2,0, 0.000
+Bagarius bagarius,91,10,1,10.000
+Bagarius rutilus,31,4,0, 0.000
+Bagarius suchus,49,7,0, 0.000
+Bagarius yarrelli,105,12,3,25.000
+Bagre bagre,204,23,0, 0.000
+Bagre marinus,172,21,2, 9.524
+Bagre panamensis,4,1,0, 0.000
+Bagre pinnimaculatus,15,2,0, 0.000
+Bagrichthys hypselopterus,48,7,4,57.143
+Bagrichthys macracanthus,50,7,0, 0.000
+Bagrichthys majusculus,6,1,0, 0.000
+Bagrichthys obscurus,7,1,0, 0.000
+Bagroides melapterus,40,6,2,33.333
+Bagrus bajad,22,3,0, 0.000
+Bagrus docmak,32,5,0, 0.000
+Bagrus filamentosus,9,2,0, 0.000
+Bagrus meridionalis,118,14,0, 0.000
+Bahaba polykladiskos,2,1,0, 0.000
+Bahaba taipingensis,40,6,0, 0.000
+Baileychromis centropomoides,8,2,0, 0.000
+Bairdiella armata,5,1,0, 0.000
+Bairdiella chrysoura,130,16,4,25.000
+Bairdiella icistia,7,2,0, 0.000
+Bairdiella ronchus,23,3,0, 0.000
+Bajacalifornia calcarata,4,1,0, 0.000
+Bajacalifornia erimoensis,2,1,0, 0.000
+Bajacalifornia megalops,4,1,0, 0.000
+Bajacalifornia microstoma,1,1,0, 0.000
+Balantiocheilos ambusticauda,37,5,0, 0.000
+Balantiocheilos melanopterus,296,35,26,74.286
+Baldwinella aureorubens,2,1,0, 0.000
+Baldwinella vivanus,8,1,0, 0.000
+Balistapus undulatus,396,46,38,82.609
+Balistes capriscus,320,38,21,55.263
+Balistes ellioti,3,1,0, 0.000
+Balistes polylepis,186,22,5,22.727
+Balistes punctatus,190,22,4,18.182
+Balistes rotundatus,3,1,0, 0.000
+Balistes vetula,245,29,18,62.069
+Balistoides conspicillum,211,26,21,80.769
+Balistoides viridescens,398,47,41,87.234
+Balitora brucei,19,3,0, 0.000
+Balitora burmanica,7,1,0, 0.000
+Balitora eddsi,16,2,0, 0.000
+Balitora lancangjiangensis,1,1,0, 0.000
+Balitora meridionalis,1,1,0, 0.000
+Balitoropsis ophiolepis,1,1,0, 0.000
+Balitoropsis zollingeri,16,2,1,50.000
+Ballerus ballerus,188,22,13,59.091
+Ballerus sapa,70,8,0, 0.000
+Bangana ariza,5,1,0, 0.000
+Bangana behri,169,20,11,55.000
+Bangana diplostoma,6,1,0, 0.000
+Bangana rendahli,17,3,1,33.333
+Banjos aculeatus,8,1,0, 0.000
+Banjos banjos,6,1,0, 0.000
+Barathronus bicolor,1,1,0, 0.000
+Barathronus maculatus,5,1,0, 0.000
+Barbantus curvifrons,2,1,0, 0.000
+Barbatula barbatula,234,28,20,71.429
+Barbatula nuda,141,17,5,29.412
+Barbatula quignardi,16,3,0, 0.000
+Barbatula toni,55,7,0, 0.000
+Barbichthys laevis,31,4,0, 0.000
+Barbodes aurotaeniatus,8,1,0, 0.000
+Barbodes banksi,7,1,0, 0.000
+Barbodes belinka,6,1,1,100.000
+Barbodes binotatus,27,4,0, 0.000
+Barbodes carnaticus,16,2,0, 0.000
+Barbodes dorsimaculatus,1,1,0, 0.000
+Barbodes dunckeri,34,5,0, 0.000
+Barbodes everetti,45,6,0, 0.000
+Barbodes kuchingensis,28,4,0, 0.000
+Barbodes lateristriga,88,10,1,10.000
+Barbodes palavanensis,2,1,0, 0.000
+Barbodes platysoma,5,1,0, 0.000
+Barbodes polylepis,3,1,0, 0.000
+Barbodes rhombeus,6,1,0, 0.000
+Barbodes semifasciolatus,105,13,2,15.385
+Barbodes snyderi,2,1,0, 0.000
+Barbodes wynaadensis,2,1,0, 0.000
+Barboides gracilis,78,9,0, 0.000
+Barbonymus altus,93,11,0, 0.000
+Barbonymus balleroides,1,1,0, 0.000
+Barbonymus gonionotus,258,31,14,45.161
+Barbonymus schwanenfeldii,282,34,20,58.824
+Barbourisia rufa,32,4,2,50.000
+Barbucca diabolica,22,3,0, 0.000
+Barbulifer antennatus,6,1,0, 0.000
+Barbulifer ceuthoecus,7,1,0, 0.000
+Barbulifer pantherinus,2,1,0, 0.000
+Barbuligobius boehlkei,1,1,0, 0.000
+Barbus balcanicus,16,2,0, 0.000
+Barbus barbus,259,31,12,38.710
+Barbus bergi,4,1,0, 0.000
+Barbus biharicus,17,3,0, 0.000
+Barbus borysthenicus,17,3,0, 0.000
+Barbus caninus,24,4,1,25.000
+Barbus carottae,6,1,0, 0.000
+Barbus carpathicus,16,2,0, 0.000
+Barbus ciscaucasicus,2,1,0, 0.000
+Barbus cyclolepis,10,2,0, 0.000
+Barbus cyri,9,2,0, 0.000
+Barbus euboicus,2,1,0, 0.000
+Barbus haasi,56,7,0, 0.000
+Barbus karunensis,2,1,0, 0.000
+Barbus kubanicus,1,1,0, 0.000
+Barbus lacerta,23,4,0, 0.000
+Barbus macedonicus,25,4,0, 0.000
+Barbus meridionalis,167,20,7,35.000
+Barbus oligolepis,267,32,15,46.875
+Barbus peloponnesius,31,4,0, 0.000
+Barbus petenyi,77,9,1,11.111
+Barbus plebejus,98,11,0, 0.000
+Barbus prespensis,9,2,0, 0.000
+Barbus rebeli,7,1,0, 0.000
+Barbus sperchiensis,4,1,0, 0.000
+Barbus strumicae,3,1,0, 0.000
+Barbus tauricus,40,6,0, 0.000
+Barbus thessalus,1,1,0, 0.000
+Barbus tyberinus,15,3,0, 0.000
+Barbus waleckii,11,2,1,50.000
+Barchatus cirrhosus,3,1,0, 0.000
+Barilius ardens,55,7,0, 0.000
+Barilius bakeri,82,10,0, 0.000
+Barilius barila,9,2,0, 0.000
+Barilius bendelisis,12,2,0, 0.000
+Barilius borneensis,1,1,0, 0.000
+Barilius canarensis,90,11,2,18.182
+Barilius dogarsinghi,25,4,1,25.000
+Barilius evezardi,2,1,0, 0.000
+Barilius gatensis,7,1,0, 0.000
+Barilius infrafasciatus,5,1,0, 0.000
+Barilius malabaricus,28,4,0, 0.000
+Barilius mesopotamicus,5,1,0, 0.000
+Barilius modestus,1,1,0, 0.000
+Barilius ornatus,33,5,0, 0.000
+Barilius pectoralis,4,1,0, 0.000
+Barilius shacra,5,1,0, 0.000
+Barilius signicaudus,5,1,0, 0.000
+Barilius vagra,8,2,0, 0.000
+Bario steindachneri,4,1,0, 0.000
+Barnardichthys fulvomarginata,4,1,0, 0.000
+Baryancistrus beggini,150,18,4,22.222
+Baryancistrus chrysolomus,112,13,2,15.385
+Baryancistrus demantoides,241,28,16,57.143
+Baryancistrus longipinnis,10,2,0, 0.000
+Baryancistrus niveatus,77,9,1,11.111
+Baryancistrus xanthellus,93,11,4,36.364
+Bascanichthys bascanium,8,2,0, 0.000
+Bascanichthys panamensis,2,1,0, 0.000
+Basilichthys australis,16,2,0, 0.000
+Basilichthys microlepidotus,11,2,0, 0.000
+Bassanago hirsutus,1,1,0, 0.000
+Bassogigas gillii,7,1,0, 0.000
+Bassozetus elongatus,6,1,0, 0.000
+Bassozetus nasus,48,6,1,16.667
+Bassozetus normalis,3,1,0, 0.000
+Bassozetus taenia,4,1,0, 0.000
+Batasio batasio,25,4,0, 0.000
+Batasio tengana,6,1,0, 0.000
+Batasio travancoria,3,1,0, 0.000
+Bathophilus ater,4,1,0, 0.000
+Bathophilus indicus,7,2,0, 0.000
+Bathophilus nigerrimus,7,1,0, 0.000
+Bathophilus pawneei,1,1,0, 0.000
+Bathyaethiops breuseghemi,84,10,0, 0.000
+Bathyaethiops caudomaculatus,74,9,2,22.222
+Bathyaethiops greeni,8,1,0, 0.000
+Bathyagonus nigripinnis,7,2,0, 0.000
+Bathyanthias mexicanus,16,2,0, 0.000
+Bathybates fasciatus,44,6,0, 0.000
+Bathybates ferox,90,10,2,20.000
+Bathybates graueri,2,1,0, 0.000
+Bathybates leo,1,1,0, 0.000
+Bathybates minor,50,7,0, 0.000
+Bathybates vittatus,8,1,0, 0.000
+Bathycallionymus kaianus,5,1,0, 0.000
+Bathyclarias foveolatus,14,2,0, 0.000
+Bathyclarias nyasensis,2,1,0, 0.000
+Bathyclupea argentea,1,1,0, 0.000
+Bathydraco marri,8,1,0, 0.000
+Bathygadus antrodes,9,2,0, 0.000
+Bathygadus bowersi,3,1,0, 0.000
+Bathygadus cottoides,7,1,0, 0.000
+Bathygadus favosus,1,1,0, 0.000
+Bathygadus melanobranchus,3,1,0, 0.000
+Bathygadus nipponicus,5,1,0, 0.000
+Bathygadus spongiceps,2,1,0, 0.000
+Bathygobius andrei,1,1,0, 0.000
+Bathygobius antilliensis,3,1,0, 0.000
+Bathygobius coalitus,8,1,0, 0.000
+Bathygobius cocosensis,20,3,0, 0.000
+Bathygobius cotticeps,8,2,0, 0.000
+Bathygobius curacao,5,1,0, 0.000
+Bathygobius cyclopterus,11,2,0, 0.000
+Bathygobius fuscus,78,9,1,11.111
+Bathygobius hongkongensis,5,1,0, 0.000
+Bathygobius krefftii,8,2,0, 0.000
+Bathygobius lacertus,10,2,0, 0.000
+Bathygobius lineatus,6,1,0, 0.000
+Bathygobius meggitti,1,1,0, 0.000
+Bathygobius mystacium,3,1,0, 0.000
+Bathygobius niger,4,1,0, 0.000
+Bathygobius panayensis,1,1,0, 0.000
+Bathygobius ramosus,7,1,0, 0.000
+Bathygobius soporator,54,7,1,14.286
+Bathylaco nigricans,5,1,0, 0.000
+Bathylagus antarcticus,21,3,0, 0.000
+Bathylagus euryops,8,1,0, 0.000
+Bathylagus pacificus,6,1,0, 0.000
+Bathylychnops exilis,14,2,0, 0.000
+Bathymaster caeruleofasciatus,50,7,2,28.571
+Bathymaster derjugini,22,3,0, 0.000
+Bathymaster signatus,8,1,0, 0.000
+Bathymicrops brevianalis,6,1,0, 0.000
+Bathyonus laticeps,1,1,0, 0.000
+Bathyphylax bombifrons,1,1,0, 0.000
+Bathypterois atricolor,7,2,0, 0.000
+Bathypterois dubius,24,3,0, 0.000
+Bathypterois grallator,68,8,1,12.500
+Bathypterois guentheri,12,2,0, 0.000
+Bathypterois longifilis,11,2,0, 0.000
+Bathypterois oddi,2,1,0, 0.000
+Bathypterois quadrifilis,5,1,0, 0.000
+Bathypterois viridensis,1,1,0, 0.000
+Bathyraja abyssicola,16,2,0, 0.000
+Bathyraja aleutica,13,2,1,50.000
+Bathyraja bergi,2,1,0, 0.000
+Bathyraja brachyurops,15,3,3,100.000
+Bathyraja eatonii,4,1,0, 0.000
+Bathyraja griseocauda,8,2,0, 0.000
+Bathyraja isotrachys,1,1,0, 0.000
+Bathyraja lindbergi,1,1,0, 0.000
+Bathyraja maccaini,2,1,0, 0.000
+Bathyraja maculata,1,1,0, 0.000
+Bathyraja magellanica,4,1,0, 0.000
+Bathyraja multispinis,1,1,0, 0.000
+Bathyraja murrayi,1,1,0, 0.000
+Bathyraja pallida,17,3,0, 0.000
+Bathyraja parmifera,16,2,0, 0.000
+Bathyraja peruana,1,1,0, 0.000
+Bathyraja richardsoni,32,4,1,25.000
+Bathyraja smirnovi,6,1,0, 0.000
+Bathyraja smithii,4,1,0, 0.000
+Bathyraja spinicauda,17,3,1,33.333
+Bathyraja spinosissima,24,3,0, 0.000
+Bathyraja trachouros,2,1,0, 0.000
+Bathyraja trachura,21,3,0, 0.000
+Bathyraja violacea,2,1,0, 0.000
+Bathysauroides gigas,10,2,1,50.000
+Bathysauropsis gracilis,7,1,0, 0.000
+Bathysaurus ferox,115,14,8,57.143
+Bathysaurus mollis,47,6,1,16.667
+Bathysolea profundicola,12,2,0, 0.000
+Bathystethus cultratus,14,2,0, 0.000
+Bathytoshia brevicaudata,37,5,2,40.000
+Bathytoshia centroura,24,3,0, 0.000
+Bathytoshia lata,18,3,0, 0.000
+Bathytroctes microlepis,2,1,0, 0.000
+Bathytyphlops marionae,5,1,0, 0.000
+Bathyuroconger vicinus,32,5,2,40.000
+Batrachocephalus mino,9,2,0, 0.000
+Batrachocottus baicalensis,66,7,4,57.143
+Batrachocottus nikolskii,1,1,0, 0.000
+Batrachoides boulengeri,13,2,0, 0.000
+Batrachoides gilberti,23,3,0, 0.000
+Batrachoides liberiensis,2,1,0, 0.000
+Batrachoides pacifici,1,1,0, 0.000
+Batrachoides surinamensis,19,3,0, 0.000
+Batrachomoeus dubius,108,13,4,30.769
+Batrachomoeus occidentalis,9,2,0, 0.000
+Batrachomoeus trispinosus,98,12,1, 8.333
+Batrichthys apiatus,3,1,0, 0.000
+Batrochoglanis raninus,27,4,0, 0.000
+Beaufortia kweichowensis,162,19,10,52.632
+Beaufortia leveretti,133,16,5,31.250
+Beaufortia pingi,7,1,0, 0.000
+Beaufortia polylepis,2,1,0, 0.000
+Beaufortia szechuanensis,4,1,0, 0.000
+Bedotia geayi,203,23,12,52.174
+Bedotia leucopteron,8,1,0, 0.000
+Bedotia longianalis,16,2,0, 0.000
+Bedotia madagascariensis,149,18,3,16.667
+Bedotia marojejy,11,2,0, 0.000
+Bedotia tricolor,9,2,0, 0.000
+Bellapiscis lesleyae,7,1,0, 0.000
+Bellapiscis medius,11,2,0, 0.000
+Bellator brachychir,1,1,0, 0.000
+Bellator egretta,7,1,0, 0.000
+Bellator militaris,13,2,0, 0.000
+Bellator xenisma,2,1,0, 0.000
+Bellottia apoda,2,1,0, 0.000
+Belobranchus belobranchus,32,5,0, 0.000
+Belodontichthys dinema,113,13,5,38.462
+Belodontichthys truncatus,34,5,0, 0.000
+Belone belone,272,32,18,56.250
+Belone euxini,19,3,0, 0.000
+Belone svetovidovi,9,2,0, 0.000
+Belonepterygion fasciolatum,48,6,0, 0.000
+Belonesox belizanus,163,19,11,57.895
+Belonoglanis brieni,10,2,0, 0.000
+Belonoglanis tenuis,15,2,0, 0.000
+Belonoperca chabanaudi,82,10,4,40.000
+Belonoperca pylei,77,9,4,44.444
+Belonophago tinanti,25,4,1,25.000
+Belontia hasselti,80,9,0, 0.000
+Belontia signata,196,23,8,34.783
+Bembradium roseum,4,1,0, 0.000
+Bembras japonica,9,2,0, 0.000
+Bembrops anatirostris,7,1,0, 0.000
+Bembrops caudimacula,1,1,0, 0.000
+Bembrops curvatura,8,2,0, 0.000
+Bembrops gobioides,6,1,1,100.000
+Benitochromis batesii,16,3,0, 0.000
+Benitochromis conjunctus,8,2,0, 0.000
+Benitochromis finleyi,40,5,1,20.000
+Benitochromis nigrodorsalis,101,12,5,41.667
+Benitochromis riomuniensis,66,7,1,14.286
+Benitochromis ufermanni,31,4,0, 0.000
+Benthalbella infans,8,1,1,100.000
+Benthalbella macropinna,6,1,0, 0.000
+Benthobatis kreffti,5,1,0, 0.000
+Benthobatis marcida,7,2,0, 0.000
+Benthobatis moresbyi,13,2,0, 0.000
+Benthochromis horii,33,5,0, 0.000
+Benthochromis melanoides,25,4,0, 0.000
+Benthochromis tricoti,264,31,15,48.387
+Benthocometes australiensis,1,1,0, 0.000
+Benthocometes robustus,18,3,0, 0.000
+Benthodesmus elongatus,13,2,1,50.000
+Benthodesmus simonyi,8,1,0, 0.000
+Benthodesmus tenuis,16,2,0, 0.000
+Benthophiloides brauneri,5,1,0, 0.000
+Benthophilus baeri,3,1,0, 0.000
+Benthophilus casachicus,2,1,0, 0.000
+Benthophilus durrelli,2,1,0, 0.000
+Benthophilus kessleri,3,1,0, 0.000
+Benthophilus macrocephalus,5,1,0, 0.000
+Benthophilus nudus,6,1,0, 0.000
+Benthophilus stellatus,4,1,0, 0.000
+Benthosema fibulatum,7,2,0, 0.000
+Benthosema glaciale,49,7,1,14.286
+Benthosema pterotum,21,3,0, 0.000
+Benthosema suborbitale,1,1,0, 0.000
+Bergiaria platana,2,1,0, 0.000
+Beringraja binoculata,7,2,0, 0.000
+Beringraja pulchra,5,1,0, 0.000
+Bero elegans,34,5,1,20.000
+Bertella idiomorpha,4,1,0, 0.000
+Beryx decadactylus,208,25,4,16.000
+Beryx mollis,24,3,0, 0.000
+Beryx splendens,207,24,8,33.333
+Betadevario ramachandrani,14,2,0, 0.000
+Betta akarensis,54,7,0, 0.000
+Betta albimarginata,90,10,1,10.000
+Betta anabatoides,18,3,0, 0.000
+Betta antoni,35,5,0, 0.000
+Betta apollon,2,1,0, 0.000
+Betta balunga,4,1,0, 0.000
+Betta bellica,75,9,5,55.556
+Betta breviobesus,6,1,0, 0.000
+Betta brownorum,52,7,1,14.286
+Betta burdigala,48,7,1,14.286
+Betta channoides,93,11,6,54.545
+Betta chini,12,2,0, 0.000
+Betta coccina,64,7,7,100.000
+Betta compuncta,16,2,0, 0.000
+Betta cracens,4,1,0, 0.000
+Betta dennisyongi,8,1,0, 0.000
+Betta dimidiata,72,8,3,37.500
+Betta edithae,62,7,0, 0.000
+Betta enisae,52,7,1,14.286
+Betta falx,71,8,0, 0.000
+Betta ferox,18,3,0, 0.000
+Betta foerschi,75,9,4,44.444
+Betta fusca,27,4,0, 0.000
+Betta gladiator,59,8,0, 0.000
+Betta hendra,65,8,2,25.000
+Betta ibanorum,15,2,0, 0.000
+Betta ideii,12,2,0, 0.000
+Betta imbellis,151,18,6,33.333
+Betta krataios,16,3,0, 0.000
+Betta kuehnei,30,4,1,25.000
+Betta lehi,16,2,0, 0.000
+Betta livida,32,4,0, 0.000
+Betta macrostoma,144,17,10,58.824
+Betta mahachaiensis,105,12,1, 8.333
+Betta mandor,49,7,0, 0.000
+Betta midas,197,22,0, 0.000
+Betta miniopinna,11,2,0, 0.000
+Betta obscura,40,5,0, 0.000
+Betta ocellata,82,9,6,66.667
+Betta pallida,6,1,0, 0.000
+Betta pallifina,63,7,0, 0.000
+Betta pardalotos,6,1,0, 0.000
+Betta patoti,49,7,2,28.571
+Betta persephone,58,8,1,12.500
+Betta pi,92,11,2,18.182
+Betta picta,72,8,2,25.000
+Betta pinguis,13,2,0, 0.000
+Betta prima,86,10,6,60.000
+Betta pugnax,119,14,4,28.571
+Betta pulchra,49,7,2,28.571
+Betta raja,77,9,0, 0.000
+Betta renata,52,7,0, 0.000
+Betta rubra,64,7,2,28.571
+Betta rutilans,47,6,1,16.667
+Betta schalleri,28,4,0, 0.000
+Betta siamorientalis,40,5,0, 0.000
+Betta simorum,32,5,0, 0.000
+Betta simplex,130,16,7,43.750
+Betta smaragdina,123,15,5,33.333
+Betta spilotogena,1,1,0, 0.000
+Betta splendens,220,26,20,76.923
+Betta stigmosa,5,1,0, 0.000
+Betta stiktos,57,8,0, 0.000
+Betta strohi,28,4,0, 0.000
+Betta taeniata,61,7,0, 0.000
+Betta tomi,18,3,0, 0.000
+Betta tussyae,32,4,0, 0.000
+Betta uberis,50,7,0, 0.000
+Betta unimaculata,136,16,8,50.000
+Betta waseri,7,1,0, 0.000
+Bhavania australis,25,4,0, 0.000
+Bibarba bibarba,12,2,0, 0.000
+Bidenichthys beeblebroxi,3,1,0, 0.000
+Bidyanus bidyanus,121,15,4,26.667
+Bidyanus welchi,3,1,0, 0.000
+Bifax lacinia,2,1,0, 0.000
+Bihunichthys monopteroides,2,1,0, 0.000
+Biotodoma cupido,220,26,19,73.077
+Biotodoma wavrini,115,14,2,14.286
+Biotoecus dicentrarchus,23,3,0, 0.000
+Biotoecus opercularis,231,27,12,44.444
+Bivibranchia bimaculata,6,1,0, 0.000
+Bivibranchia fowleri,20,3,0, 0.000
+Biwia springeri,7,1,0, 0.000
+Biwia yodoensis,49,7,3,42.857
+Biwia zezera,74,9,2,22.222
+Bleekeria kallolepis,4,1,0, 0.000
+Bleekeria mitsukurii,4,1,0, 0.000
+Bleekeria viridianguilla,3,1,0, 0.000
+Blenniella bilitonensis,7,2,0, 0.000
+Blenniella caudolineata,2,1,0, 0.000
+Blenniella chrysospilos,115,14,1, 7.143
+Blenniella cyanostigma,2,1,0, 0.000
+Blenniella gibbifrons,48,6,3,50.000
+Blenniella interrupta,10,2,0, 0.000
+Blenniella leopardus,1,1,0, 0.000
+Blenniella paula,4,1,0, 0.000
+Blenniella periophthalmus,48,7,0, 0.000
+Blennioclinus brachycephalus,1,1,0, 0.000
+Blennius ocellaris,202,23,7,30.435
+Blennodesmus scapularis,8,1,0, 0.000
+Blepsias bilobus,16,3,0, 0.000
+Blepsias cirrhosus,34,5,0, 0.000
+Blicca bjoerkna,322,38,17,44.737
+Bodianus albotaeniatus,32,5,2,40.000
+Bodianus anthioides,94,11,8,72.727
+Bodianus atrolumbus,8,2,0, 0.000
+Bodianus axillaris,87,10,4,40.000
+Bodianus bathycapros,15,2,0, 0.000
+Bodianus bennetti,52,7,0, 0.000
+Bodianus bilunulatus,73,8,1,12.500
+Bodianus bimaculatus,103,12,6,50.000
+Bodianus busellatus,8,1,0, 0.000
+Bodianus cylindriatus,8,1,1,100.000
+Bodianus diana,120,15,7,46.667
+Bodianus dictynna,53,7,0, 0.000
+Bodianus diplotaenia,246,29,18,62.069
+Bodianus eclancheri,31,4,0, 0.000
+Bodianus flavifrons,4,1,0, 0.000
+Bodianus flavipinnis,21,3,1,33.333
+Bodianus frenchii,23,4,0, 0.000
+Bodianus insularis,35,5,0, 0.000
+Bodianus izuensis,32,5,0, 0.000
+Bodianus leucosticticus,12,2,0, 0.000
+Bodianus loxozonus,48,7,4,57.143
+Bodianus macrognathos,7,1,0, 0.000
+Bodianus macrourus,6,1,0, 0.000
+Bodianus masudai,53,7,0, 0.000
+Bodianus mesothorax,76,9,3,33.333
+Bodianus neilli,2,1,0, 0.000
+Bodianus neopercularis,10,2,0, 0.000
+Bodianus opercularis,46,6,1,16.667
+Bodianus oxycephalus,74,8,1,12.500
+Bodianus paraleucosticticus,9,2,0, 0.000
+Bodianus perditio,53,7,5,71.429
+Bodianus prognathus,2,1,0, 0.000
+Bodianus pulchellus,145,17,7,41.176
+Bodianus rubrisos,13,2,0, 0.000
+Bodianus rufus,258,30,20,66.667
+Bodianus sanguineus,48,6,0, 0.000
+Bodianus scrofa,135,16,3,18.750
+Bodianus sepiacaudus,48,7,3,42.857
+Bodianus solatus,2,1,0, 0.000
+Bodianus speciosus,62,7,0, 0.000
+Bodianus tanyokidus,1,1,0, 0.000
+Bodianus trilineatus,4,1,0, 0.000
+Bodianus unimaculatus,99,12,2,16.667
+Bodianus vulpinus,54,7,0, 0.000
+Boehlkea fredcochui,175,21,11,52.381
+Boehlkenchelys longidentata,3,1,0, 0.000
+Boesemania microlepis,91,10,0, 0.000
+Bolbometopon muricatum,394,46,40,86.957
+Boleophthalmus birdsongi,6,1,0, 0.000
+Boleophthalmus boddarti,203,23,13,56.522
+Boleophthalmus caeruleomaculatus,10,2,0, 0.000
+Boleophthalmus dussumieri,22,3,0, 0.000
+Boleophthalmus pectinirostris,145,17,8,47.059
+Boleophthalmus poti,4,1,0, 0.000
+Bolinichthys photothorax,8,1,1,100.000
+Bolinichthys supralateralis,1,1,0, 0.000
+Bollmannia boqueronensis,4,1,0, 0.000
+Bollmannia communis,1,1,0, 0.000
+Bollmannia umbrosa,1,1,0, 0.000
+Bonapartia pedaliota,28,4,2,50.000
+Boops boops,15,2,0, 0.000
+Boops lineatus,39,5,0, 0.000
+Boopsoidea inornata,21,3,0, 0.000
+Boraras brigittae,86,10,7,70.000
+Boraras maculatus,85,10,9,90.000
+Boraras merah,66,8,0, 0.000
+Boraras micros,66,8,0, 0.000
+Boraras naevus,65,8,1,12.500
+Boraras urophthalmoides,77,9,4,44.444
+Boreogadus saida,113,13,2,15.385
+Boridia grossidens,8,1,0, 0.000
+Borophryne apogon,30,4,0, 0.000
+Borostomias antarcticus,21,3,1,33.333
+Bostockia porosa,19,3,0, 0.000
+Bostrychus africanus,5,1,0, 0.000
+Bostrychus sinensis,48,7,0, 0.000
+Bostrychus zonatus,16,3,1,33.333
+Bothrocara brunneum,28,4,1,25.000
+Bothrocara hollandi,7,2,0, 0.000
+Bothrocara molle,4,1,0, 0.000
+Bothrocara nyx,1,1,0, 0.000
+Bothrocara pusillum,3,1,0, 0.000
+Bothrocara tanakae,10,2,0, 0.000
+Bothrocarina microcephala,1,1,0, 0.000
+Bothus leopardinus,40,6,0, 0.000
+Bothus lunatus,228,27,14,51.852
+Bothus maculiferus,10,2,0, 0.000
+Bothus mancus,241,29,13,44.828
+Bothus mellissi,1,1,0, 0.000
+Bothus myriaster,6,1,0, 0.000
+Bothus ocellatus,141,17,0, 0.000
+Bothus pantherinus,189,22,4,18.182
+Bothus podas,349,42,20,47.619
+Bothus robinsi,8,2,0, 0.000
+Botia almorhae,87,10,1,10.000
+Botia birdi,6,1,0, 0.000
+Botia dario,148,18,9,50.000
+Botia dayi,26,4,0, 0.000
+Botia histrionica,99,12,3,25.000
+Botia kubotai,90,11,7,63.636
+Botia lohachata,103,12,3,25.000
+Botia rostrata,115,14,1, 7.143
+Botia striata,163,19,11,57.895
+Botia udomritthiruji,48,7,1,14.286
+Boulengerella cuvieri,106,13,3,23.077
+Boulengerella lateristriga,93,11,0, 0.000
+Boulengerella lucius,15,2,0, 0.000
+Boulengerella maculata,90,10,5,50.000
+Boulengerella xyrekes,3,1,0, 0.000
+Boulengerochromis microlepis,241,29,16,55.172
+Boulengeromyrus knoepffleri,10,2,0, 0.000
+Bovichtus angustifrons,24,3,0, 0.000
+Bovichtus chilensis,3,1,0, 0.000
+Bovichtus diacanthus,5,1,0, 0.000
+Bovichtus variegatus,4,1,0, 0.000
+Brachaelurus colcloughi,43,6,2,33.333
+Brachaelurus waddi,174,21,7,33.333
+Brachaluteres jacksonianus,145,17,4,23.529
+Brachaluteres taylori,24,4,0, 0.000
+Brachaluteres ulvarum,58,8,2,25.000
+Brachionichthys australis,27,4,0, 0.000
+Brachionichthys hirsutus,145,17,7,41.176
+Brachiopsilus ziebelli,16,2,0, 0.000
+Brachirus harmandi,9,2,0, 0.000
+Brachirus heterolepis,7,1,0, 0.000
+Brachirus orientalis,31,4,0, 0.000
+Brachirus pan,7,1,0, 0.000
+Brachirus panoides,32,5,0, 0.000
+Brachirus selheimi,1,1,0, 0.000
+Brachirus siamensis,4,1,0, 0.000
+Brachychalcinus nummus,2,1,0, 0.000
+Brachychalcinus orbicularis,75,9,4,44.444
+Brachychalcinus retrospina,5,1,0, 0.000
+Brachydeuterus auritus,23,4,0, 0.000
+Brachygalaxias bullocki,3,1,0, 0.000
+Brachygalaxias gothei,1,1,0, 0.000
+Brachygobius aggregatus,15,2,0, 0.000
+Brachygobius doriae,95,11,2,18.182
+Brachygobius kabiliensis,44,6,1,16.667
+Brachygobius mekongensis,3,1,0, 0.000
+Brachygobius nunus,24,4,0, 0.000
+Brachygobius sabanus,12,2,0, 0.000
+Brachygobius sua,4,1,0, 0.000
+Brachygobius xanthomelas,32,5,0, 0.000
+Brachygobius xanthozonus,77,9,0, 0.000
+Brachyhypopomus brevirostris,14,2,1,50.000
+Brachyhypopomus draco,5,1,0, 0.000
+Brachyhypopomus occidentalis,1,1,0, 0.000
+Brachyhypopomus pinnicaudatus,24,3,0, 0.000
+Brachyhypopomus walteri,1,1,0, 0.000
+Brachyistius aletes,1,1,0, 0.000
+Brachyistius frenatus,71,8,1,12.500
+Brachymystax lenok,228,27,9,33.333
+Brachymystax savinovi,18,3,0, 0.000
+Brachymystax tumensis,6,1,0, 0.000
+Brachyopsis segaliensis,8,2,0, 0.000
+Brachypetersius altus,34,5,1,20.000
+Brachypetersius pseudonummifer,1,1,0, 0.000
+Brachyplatystoma capapretum,90,10,1,10.000
+Brachyplatystoma filamentosum,148,18,5,27.778
+Brachyplatystoma juruense,180,22,5,22.727
+Brachyplatystoma platynemum,45,6,1,16.667
+Brachyplatystoma rousseauxii,114,13,7,53.846
+Brachyplatystoma tigrinum,145,18,5,27.778
+Brachyplatystoma vaillantii,102,12,0, 0.000
+Brachypleura novaezeelandiae,2,1,0, 0.000
+Brachypterois curvispina,6,1,0, 0.000
+Brachypterois serrulata,22,3,0, 0.000
+Brachypterois serrulifer,2,1,0, 0.000
+Brachyrhamdia heteropleura,8,2,1,50.000
+Brachyrhamdia imitator,15,3,0, 0.000
+Brachyrhamdia marthae,4,1,0, 0.000
+Brachyrhamdia meesi,34,5,1,20.000
+Brachyrhamdia rambarrani,12,2,0, 0.000
+Brachyrhaphis cascajalensis,8,2,0, 0.000
+Brachyrhaphis episcopi,65,8,2,25.000
+Brachyrhaphis hartwegi,15,3,0, 0.000
+Brachyrhaphis hessfeldi,16,2,0, 0.000
+Brachyrhaphis holdridgei,31,4,0, 0.000
+Brachyrhaphis olomina,8,1,0, 0.000
+Brachyrhaphis rhabdophora,2,1,0, 0.000
+Brachyrhaphis roseni,118,14,5,35.714
+Brachyrhaphis terrabensis,7,2,0, 0.000
+Brachysomophis atlanticus,2,1,0, 0.000
+Brachysomophis cirrocheilos,90,11,3,27.273
+Brachysomophis crocodilinus,98,11,2,18.182
+Brachysomophis henshawi,61,7,1,14.286
+Brama australis,130,16,1, 6.250
+Brama brama,19,3,0, 0.000
+Brama dussumieri,13,2,1,50.000
+Brama japonica,55,7,0, 0.000
+Brama myersi,4,1,0, 0.000
+Brama orcini,7,1,0, 0.000
+Bramocharax bransfordii,2,1,0, 0.000
+Bramocharax caballeroi,2,1,0, 0.000
+Branchiostegus albus,27,4,1,25.000
+Branchiostegus argentatus,23,4,1,25.000
+Branchiostegus auratus,24,3,0, 0.000
+Branchiostegus japonicus,201,23,6,26.087
+Branchiostegus semifasciatus,57,8,1,12.500
+Branchiostegus wardi,12,2,0, 0.000
+Bregmaceros atlanticus,8,2,0, 0.000
+Bregmaceros japonicus,3,1,0, 0.000
+Bregmaceros mcclellandi,8,2,0, 0.000
+Bregmaceros nectabanus,3,1,0, 0.000
+Breitensteinia insignis,1,1,0, 0.000
+Brevibora cheeya,2,1,0, 0.000
+Brevibora dorsiocellata,124,15,5,33.333
+Brevimyrus niger,13,2,0, 0.000
+Breviraja spinosa,8,1,0, 0.000
+Brevitrygon imbricata,3,1,0, 0.000
+Brevitrygon walga,6,1,0, 0.000
+Brevoortia aurea,25,4,0, 0.000
+Brevoortia gunteri,1,1,0, 0.000
+Brevoortia patronus,74,8,0, 0.000
+Brevoortia pectinata,4,1,0, 0.000
+Brevoortia smithi,9,2,0, 0.000
+Brevoortia tyrannus,127,15,4,26.667
+Brienomyrus brachyistius,55,7,0, 0.000
+Brienomyrus longianalis,20,3,2,66.667
+Brittanichthys axelrodi,51,7,1,14.286
+Brittanichthys myersi,8,2,0, 0.000
+Brochiloricaria chauliodon,15,3,0, 0.000
+Brochiloricaria macrodon,8,2,0, 0.000
+Brochis multiradiatus,248,29,21,72.414
+Brockius nigricinctus,1,1,0, 0.000
+Brosme brosme,225,26,16,61.538
+Brosmophyciops pautzkei,1,1,0, 0.000
+Brosmophycis marginata,5,1,0, 0.000
+Brotula barbata,70,8,3,37.500
+Brotula clarkae,9,2,0, 0.000
+Brotula multibarbata,91,10,1,10.000
+Brotula ordwayi,1,1,0, 0.000
+Brotulotaenia crassa,1,1,0, 0.000
+Brotulotaenia nielseni,2,1,0, 0.000
+Bryaninops amplus,99,11,1, 9.091
+Bryaninops annella,8,1,0, 0.000
+Bryaninops erythrops,34,5,0, 0.000
+Bryaninops loki,59,8,1,12.500
+Bryaninops natans,112,13,4,30.769
+Bryaninops nexus,6,1,0, 0.000
+Bryaninops ridens,1,1,0, 0.000
+Bryaninops tigris,56,8,0, 0.000
+Bryaninops yongei,130,16,5,31.250
+Brycinus affinis,8,2,0, 0.000
+Brycinus batesii,1,1,0, 0.000
+Brycinus brevis,54,7,2,28.571
+Brycinus comptus,2,1,0, 0.000
+Brycinus humilis,2,1,0, 0.000
+Brycinus imberi,17,3,0, 0.000
+Brycinus intermedius,1,1,0, 0.000
+Brycinus kingsleyae,4,1,0, 0.000
+Brycinus lateralis,1,1,0, 0.000
+Brycinus longipinnis,155,19,9,47.368
+Brycinus macrolepidotus,27,4,1,25.000
+Brycinus nurse,129,15,10,66.667
+Brycinus opisthotaenia,2,1,0, 0.000
+Brycinus rhodopleura,2,1,0, 0.000
+Brycinus schoutedeni,2,1,0, 0.000
+Brycinus taeniurus,2,1,0, 0.000
+Brycon alburnus,2,1,0, 0.000
+Brycon amazonicus,34,5,0, 0.000
+Brycon argenteus,9,2,0, 0.000
+Brycon behreae,4,1,0, 0.000
+Brycon cephalus,66,8,0, 0.000
+Brycon chagrensis,1,1,0, 0.000
+Brycon dentex,15,2,0, 0.000
+Brycon devillei,1,1,0, 0.000
+Brycon falcatus,17,3,0, 0.000
+Brycon guatemalensis,32,4,0, 0.000
+Brycon henni,42,6,0, 0.000
+Brycon hilarii,125,15,10,66.667
+Brycon insignis,27,4,0, 0.000
+Brycon meeki,3,1,0, 0.000
+Brycon melanopterus,44,6,0, 0.000
+Brycon moorei,40,5,2,40.000
+Brycon nattereri,66,8,0, 0.000
+Brycon opalinus,16,2,0, 0.000
+Brycon orbignyanus,78,9,0, 0.000
+Brycon orthotaenia,11,2,0, 0.000
+Brycon rubricauda,3,1,0, 0.000
+Brycon sinuensis,2,1,0, 0.000
+Brycon vermelha,14,2,0, 0.000
+Brycon whitei,30,4,4,100.000
+Bryconaethiops boulengeri,10,2,0, 0.000
+Bryconaethiops microstoma,15,3,0, 0.000
+Bryconamericus caucanus,1,1,0, 0.000
+Bryconamericus cismontanus,2,1,0, 0.000
+Bryconamericus diaphanus,2,1,0, 0.000
+Bryconamericus exodon,7,2,0, 0.000
+Bryconamericus iheringii,1,1,0, 0.000
+Bryconamericus lambari,2,1,0, 0.000
+Bryconamericus peruanus,2,1,0, 0.000
+Bryconamericus scleroparius,6,1,0, 0.000
+Bryconamericus stramineus,4,1,0, 0.000
+Bryconella pallidifrons,15,3,1,33.333
+Bryconops affinis,1,1,0, 0.000
+Bryconops caudomaculatus,13,2,0, 0.000
+Bryconops humeralis,3,1,0, 0.000
+Bryconops inpai,7,1,0, 0.000
+Bryconops melanurus,22,3,0, 0.000
+Bryconops munduruku,3,1,0, 0.000
+Bryconops piracolina,6,1,0, 0.000
+Buccochromis atritaeniatus,73,8,2,25.000
+Buccochromis heterotaenia,88,10,0, 0.000
+Buccochromis lepturus,158,19,3,15.789
+Buccochromis nototaenia,180,21,2, 9.524
+Buccochromis rhoadesii,256,30,9,30.000
+Buccochromis spectabilis,120,14,3,21.429
+Buenia affinis,10,2,0, 0.000
+Buenia jeffreysii,16,3,0, 0.000
+Buenia massutii,8,2,1,50.000
+Bufoceratias shaoi,8,2,0, 0.000
+Bufoceratias wedli,28,4,0, 0.000
+Buglossidium luteum,127,15,4,26.667
+Bujurquina apoparuana,5,1,0, 0.000
+Bujurquina mariae,14,2,0, 0.000
+Bujurquina megalospilus,1,1,0, 0.000
+Bujurquina moriorum,2,1,0, 0.000
+Bujurquina oenolaemus,40,6,0, 0.000
+Bujurquina robusta,8,1,0, 0.000
+Bujurquina syspilus,16,2,0, 0.000
+Bujurquina vittata,134,16,2,12.500
+Bujurquina zamorensis,3,1,0, 0.000
+Bulbonaricus brauni,7,2,0, 0.000
+Bulbonaricus davaoensis,6,1,0, 0.000
+Bullisichthys caribbaeus,31,4,1,25.000
+Bullockia maldonadoi,10,2,0, 0.000
+Bunaka gyrinoides,12,2,0, 0.000
+Bunocephalus aloikae,8,1,0, 0.000
+Bunocephalus amaurus,28,4,0, 0.000
+Bunocephalus colombianus,7,2,0, 0.000
+Bunocephalus coracoideus,75,9,1,11.111
+Bunocephalus doriae,14,2,0, 0.000
+Bunocephalus knerii,13,2,0, 0.000
+Bunocephalus verrucosus,31,4,0, 0.000
+Butis amboinensis,16,2,0, 0.000
+Butis butis,30,4,1,25.000
+Butis gymnopomus,19,3,0, 0.000
+Butis koilomatodon,22,3,0, 0.000
+Butis melanostigma,9,2,0, 0.000
+Bythaelurus canescens,2,1,0, 0.000
+Bythaelurus giddingsi,35,5,1,20.000
+Bythaelurus hispidus,3,1,0, 0.000
+Bythaelurus naylori,4,1,0, 0.000
+Cabdio morar,7,2,0, 0.000
+Cabillus lacertops,1,1,0, 0.000
+Cabillus pexus,6,1,0, 0.000
+Cabillus tongarevae,8,2,0, 0.000
+Caecieleotris morrisi,3,1,0, 0.000
+Caecobarbus geertsii,5,1,0, 0.000
+Caecocypris basimi,11,2,0, 0.000
+Caecogobius cryptophthalmus,4,1,0, 0.000
+Caelatoglanis zonatus,17,3,0, 0.000
+Caenotropus labyrinthicus,48,6,0, 0.000
+Caenotropus maculosus,16,2,0, 0.000
+Caesio caerulaurea,262,31,17,54.839
+Caesio cuning,180,21,9,42.857
+Caesio lunaris,234,27,6,22.222
+Caesio striata,91,10,1,10.000
+Caesio suevica,199,23,6,26.087
+Caesio teres,180,21,5,23.810
+Caesio varilineata,117,14,2,14.286
+Caesio xanthalytos,1,1,0, 0.000
+Caesio xanthonota,180,22,5,22.727
+Caesioperca lepidoptera,150,18,6,33.333
+Caesioperca rasor,63,7,1,14.286
+Caesioscorpis theagenes,6,1,0, 0.000
+Caffrogobius caffer,1,1,0, 0.000
+Caffrogobius nudiceps,10,2,0, 0.000
+Caiapobrycon tucurui,4,1,0, 0.000
+Cairnsichthys rhombosomoides,118,14,9,64.286
+Calamopteryx goslinei,13,2,0, 0.000
+Calamopteryx jeb,3,1,0, 0.000
+Calamus arctifrons,85,10,3,30.000
+Calamus bajonado,129,15,5,33.333
+Calamus brachysomus,44,6,3,50.000
+Calamus calamus,26,4,0, 0.000
+Calamus campechanus,23,3,0, 0.000
+Calamus leucosteus,55,7,1,14.286
+Calamus mu,44,6,0, 0.000
+Calamus nodosus,43,6,0, 0.000
+Calamus penna,91,11,4,36.364
+Calamus pennatula,37,5,0, 0.000
+Calamus proridens,39,5,0, 0.000
+Calamus taurinus,24,3,0, 0.000
+Callanthias allporti,16,3,0, 0.000
+Callanthias australis,33,5,0, 0.000
+Callanthias japonicus,74,8,3,37.500
+Callanthias legras,1,1,0, 0.000
+Caranx ignoblis,353,42,21,50.000
+Caranx sexfasciatus,390,46,36,78.261
+Chirocentrus dorab,164,19,6,31.579
+Chrysophrys auratus,237,28,12,42.857
+Coryphaena hippurus,367,43,36,83.721
+Cybiosarda elegans,31,4,0, 0.000
+Eleutheronema tetradactylum,225,26,7,26.923
+Epinephelus coioides,264,31,8,25.806
+Epinephelus malabaricus,366,43,15,34.884
+Euthynnus affinis,234,28,5,17.857
+Girella tricuspidata,200,23,9,39.130
+Glaucosoma scapulare,37,5,0, 0.000
+Gnathanodon speciosus,300,36,21,58.333
+Grammatorcynus bicarinatus,53,7,1,14.286
+Hemiramphus robustus,33,5,1,20.000
+Hyporhamphus regularis,24,3,1,33.333
+Lates calcarifer,225,26,11,42.308
+Lethrinus laticaudis,74,8,1,12.500
+Liza vaigiensis,178,21,10,47.619
+Lutjanus argentimaculatus,405,48,22,45.833
+Lutjanus johnii,214,26,10,38.462
+Macquaria novemaculeata,144,17,5,29.412
+Mugil cephalus,303,36,25,69.444
+Nibea soldado,65,7,3,42.857
+Nibea squammosa,1,1,0, 0.000
+Platycephalus arenarius,18,3,0, 0.000
+Platycephalus endrachtensis,9,2,0, 0.000
+Platycephalus fuscus,294,35,8,22.857
+Platycephalus indicus,281,33,8,24.242
+Plectropomus maculatus,255,30,7,23.333
+Polydactylus macrochir,45,6,0, 0.000
+Pomadasys argenteus,100,12,8,66.667
+Pomadasys kaakan,118,14,3,21.429
+Pomatomus saltatrix,402,47,12,25.532
+Protonibea diacanthus,81,9,0, 0.000
+Rachycentron canadum,315,38,24,63.158
+Rhabdosargus sarba,274,33,23,69.697
+Sarda australis,164,19,4,21.053
+Scomberoides commersonnianus,101,12,0, 0.000
+Scomberoides lysan,205,24,5,20.833
+Scomberoides tala,11,2,0, 0.000
+Scomberoides tol,85,10,2,20.000
+Scomberomorus commerson,209,26,5,19.231
+Scomberomorus munroi,28,4,0, 0.000
+Scomberomorus queenslandicus,17,3,0, 0.000
+Scomberomorus semifasciatus,14,2,0, 0.000
+Seriola dumerili,339,41,18,43.902
+Seriola hippos,261,31,12,38.710
+Seriola lalandi,309,37,20,54.054
+Seriola rivoliana,313,38,11,28.947
+Seriolina nigrofasciata,121,14,3,21.429
+Siganus spinus,461,55,34,61.818
+Sillago analis,15,3,0, 0.000
+Sillago ciliata,66,7,2,28.571
+Sillago maculata,113,13,2,15.385
+Sillago robusta,9,2,0, 0.000
+Sillago sihama,159,19,4,21.053
+Sphyraena barracuda,376,44,28,63.636
+Sphyraena obtusata,275,33,18,54.545
+Thunnus albacares,314,37,27,72.973
+Thunnus tonggol,262,31,7,22.581
+Trachinotus baillonii,297,36,13,36.111
+Trachinotus blochii,336,19,10,52.632
+Trachinotus coppingeri,32,0,0, 0.000
+
+training accuracy,0.49487425436887383
+validation accuracy,0.2940074906367041

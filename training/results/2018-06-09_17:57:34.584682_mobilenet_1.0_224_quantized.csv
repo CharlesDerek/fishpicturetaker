@@ -1,0 +1,78 @@
+class,dataset size,test size,num correct,correct percentage
+amberjack,323,37,21,56.75675675675676
+australian bass,378,40,32,80.0
+australian bonito,57,7,4,57.14285714285714
+barramundi,575,50,29,57.99999999999999
+barred cheek coral trout,155,14,13,92.85714285714286
+barred javelin,97,11,6,54.54545454545454
+barred queenfish,12,1,0,0.0
+bartailed flathead,192,15,10,66.66666666666666
+beach,17,2,1,50.0
+bigeye trevally,60,4,0,0.0
+black jewfish,138,13,8,61.53846153846154
+blackbanded amberjack,40,3,3,100.0
+blackspotted rockcod,73,6,3,50.0
+blue threadfin,80,8,6,75.0
+boat,62,6,2,33.33333333333333
+cobia,395,43,32,74.4186046511628
+diamondscale mullet,72,7,5,71.42857142857143
+dusky flathead,507,45,30,66.66666666666666
+frypan bream,16,3,1,33.33333333333333
+giant queenfish,192,26,22,84.61538461538461
+giant trevally,617,60,40,66.66666666666666
+golden snapper fingermark,516,48,40,83.33333333333334
+golden trevally,585,58,43,74.13793103448276
+goldenline whiting,9,1,1,100.0
+goldspotted rockcod,53,8,6,75.0
+grass emperor sweetlip,82,11,2,18.181818181818183
+great barracuda,629,72,57,79.16666666666666
+grey mackerel,23,2,1,50.0
+highfin amberjack,128,21,11,52.38095238095239
+king threadfin,103,9,4,44.44444444444444
+leaping bonito,54,5,2,40.0
+lesser queenfish,71,9,3,33.33333333333333
+longtail tuna,397,44,15,34.090909090909086
+luderick,231,26,21,80.76923076923077
+mackerel tuna,188,20,7,35.0
+mahi mahi,535,59,43,72.88135593220339
+mangrove jack,809,103,73,70.87378640776699
+mulloway,372,37,8,21.62162162162162
+needleskin queenfish,72,12,7,58.333333333333336
+northern sand flathead,16,4,1,25.0
+northern whiting,51,4,3,75.0
+pearl perch,149,15,10,66.66666666666666
+people,48,2,0,0.0
+pikey bream,34,6,1,16.666666666666664
+river,245,26,23,88.46153846153845
+river garfish,16,2,0,0.0
+river perch,2,0,0,0
+samsonfish,259,20,12,60.0
+sand whiting,81,7,4,57.14285714285714
+scaly jewfish,3,1,0,0.0
+school mackerel,57,6,1,16.666666666666664
+scribbled rabbitfish,90,9,8,88.88888888888889
+sea,91,4,4,100.0
+sea mullet,185,17,13,76.47058823529412
+shark mackerel,70,5,3,60.0
+silver javelin,24,4,1,25.0
+silver jewfish,32,4,1,25.0
+small spotted dart,84,8,6,75.0
+snapper,448,46,25,54.347826086956516
+snub nosed dart,347,46,37,80.43478260869566
+snubnose garfish,10,1,0,0.0
+spanish mackerel,357,36,18,50.0
+spotted mackerel,122,13,2,15.384615384615385
+stout whiting,10,3,2,66.66666666666666
+striped barracuda,87,8,6,75.0
+swallow tailed dart,10,1,0,0.0
+tailor,591,52,28,53.84615384615385
+tarwhine,77,4,2,50.0
+teraglin,66,6,2,33.33333333333333
+three by two garfish,10,1,0,0.0
+trumpeter whiting,20,3,0,0.0
+wahoo,181,19,9,47.368421052631575
+wolf herring,103,12,3,25.0
+yellowfin bream,115,16,9,56.25
+yellowfin tuna,475,46,29,63.04347826086957
+yellowtail kingfish,603,69,45,65.21739130434783
+yellowtailed flathead,5,1,0,0.0

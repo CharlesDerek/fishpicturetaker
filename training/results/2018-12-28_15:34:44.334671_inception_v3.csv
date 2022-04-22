@@ -1,0 +1,7 @@
+class,class size,val size,val correct,val percentage
+fish,21854,2068,1975,95.50290135396519
+not_fish,21990,2081,2035,97.78952426717925
+,,,,96.64621281057222
+
+training accuracy,97.18135595321655
+validation accuracy,96.64979577064514

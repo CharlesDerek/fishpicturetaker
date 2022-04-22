@@ -1,0 +1,15 @@
+.App {
+  margin-top: 15px;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+
+.App .navbar-nav a, .App .navbar-nav div {
+  margin-left: 20px;
+} 
+
+.input-group label {
+  margin-bottom: unset;
+}

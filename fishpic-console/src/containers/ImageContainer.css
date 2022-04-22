@@ -1,0 +1,15 @@
+.imageContainer {
+    display: flex;
+}
+
+.imageContainer .metadata, .imageContainer .middle, .imageContainer .annotationForm {
+    border: 1px solid #AAA;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.metadata {
+    max-width: 250px;
+}
+
+.image { height: unset; max-width: 100%; max-height: 100%; }

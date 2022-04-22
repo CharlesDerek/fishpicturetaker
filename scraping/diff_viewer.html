@@ -1,0 +1,214 @@
+<html>
+<head>
+  <title>Image Viewer</title>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <style>
+    img { max-width: 500px; }
+    .deleted { border: 1px red solid; }
+    h1:not(:first-child) { margin-top: 100px; }
+  </style>
+</head>
+<body>
+  <h1>Image Viewer</h1>
+  <input id="fileInputFirst" type="file" />
+  <input id="fileInputSecond" type="file" />
+  <input id="diffButton" type="button" value="Diff" />
+  <p class="info"></p>
+  <div class="images">
+    <h1>First Only</h1>
+    <div id="firstOnlyImages" class="container" ></div>
+    <h1>Second Only</h1>
+    <div id="secondOnlyImages" class="container" ></div>
+    <h1>Both</h1>
+    <div id="imagesInBoth" class="container"></div>
+		<br />
+    <input id="downloadButton" type="button" value="Download" />
+  </div>
+  <script>
+    const csvDelimiter = ";";
+
+    $(".images").hide();
+    function intersection(metaDataOne, metaDataTwo) {
+      var imageUrlsTwo = new Set(metaDataTwo.map(x => x.imageUrl));
+      return metaDataOne.filter(x => imageUrlsTwo.has(x.imageUrl));
+    }
+
+    function difference(metaDataOne, metaDataTwo) {
+      var imageUrlsTwo = new Set(metaDataTwo.map(x => x.imageUrl));
+      return metaDataOne.filter(x => !imageUrlsTwo.has(x.imageUrl));
+    }
+
+    function diffMetaData(firstMetaData, secondMetaData) {
+      return [intersection(firstMetaData, secondMetaData), difference(firstMetaData, secondMetaData), difference(secondMetaData, firstMetaData)];
+    }
+
+    function removeDuplicates(metaData) {
+      var imageUrlToMetaDatums = {};
+      metaData.forEach(x => imageUrlToMetaDatums[x.imageUrl] = x);
+      return Object.values(imageUrlToMetaDatums);
+    }
+
+    function getUrls(files, callback) {
+      var reader = new FileReader();
+      reader.onload = e => {
+        var lines = e.target.result.split("\n").filter(x => x !== "");
+        if (e.target.result.indexOf(csvDelimiter) !== -1) {
+          var metaData = lines.map(x => {
+            var [imageUrl, previewUrl] = x.split(csvDelimiter);
+            return { imageUrl: imageUrl, previewUrl: previewUrl };
+          });
+          callback(removeDuplicates(metaData));
+        } else {
+          callback(lines.map(x => ({ imageUrl: x, previewUrl: null})));
+        }
+      };
+      Array.from(files).forEach(file => reader.readAsText(file));
+    }
+
+    function createImages(container, metaData) {
+      var addedImageUrls = new Set();
+      metaData.forEach(x => {
+        if (!addedImageUrls.has(x.imageUrl)) {
+          container.append(`<img src="${x.imageUrl}" alt="${x.imageUrl}" data-preview-url="${x.previewUrl}" />`);
+          addedImageUrls.add(x.imageUrl);
+        }
+      });
+    }
+
+    var firstMetaData = null;
+    var firstMetaDataFileName = null;
+    var secondMetaData = null;
+    var secondMetaDataFileName = null;
+
+    $("#fileInputFirst").on("change", e => {
+      if (e.target.files.length > 0) {
+        firstMetaData = [];
+        firstMetaDataFileName = e.target.files[0].name;
+        getUrls(e.target.files, urls => {
+          firstMetaData = firstMetaData.concat(urls);
+        });
+      } else {
+        firstMetaData = null;
+        firstMetaDataFileName = null;
+      }
+    }); 
+
+    $("#fileInputSecond").on("change", e => {
+      if (e.target.files.length > 0) {
+        secondMetaData = [];
+        secondMetaDataFileName = e.target.files[0].name;
+        getUrls(e.target.files, urls => {
+          secondMetaData = secondMetaData.concat(urls)
+        });
+      } else {
+        secondMetaData = null;
+        secondMetaDataFileName = null;
+      }
+    }); 
+
+    var showAndClearImages = () => {
+      $(".images").show();
+      $(".container").html("");
+    };
+
+    $("#diffButton").on("click", e => {
+      if (firstMetaData !== null && secondMetaData !== null) {
+        var [intersectionMetaData, firstOnlyMetaData, secondOnlyMetaData] = diffMetaData(firstMetaData, secondMetaData);
+        $(".info").html(`first only size: ${firstOnlyMetaData.length}, second only size: ${secondOnlyMetaData.length}, images in both: ${intersectionMetaData.length}.`);
+        showAndClearImages();
+        createImages($("#firstOnlyImages"), firstOnlyMetaData);
+        createImages($("#secondOnlyImages"), secondOnlyMetaData);
+        createImages($("#imagesInBoth"), intersectionMetaData);
+      } else if (firstMetaData !== null) {
+        showAndClearImages();
+        createImages($("#firstOnlyImages"), firstMetaData);
+      } else if (secondMetaData !== null) {
+        showAndClearImages();
+        createImages($("#secondOnlyImages"), secondMetaData);
+      } else {
+        alert("Please select two files.");
+      }
+    });
+
+    function deleteMetaData(metaData, imageUrl) {
+      if (metaData !== null) {
+        var index = metaData.map(x => x.imageUrl).indexOf(imageUrl);
+        if (index !== -1) {
+          return metaData.splice(index, 1);
+        }
+      }
+    }
+
+		var deletedUrls = [];
+    $(document).on("click", "img", e => {
+      var element = $(e.target);
+      if (e.ctrlKey) {
+        window.open(element.data("preview-url"));
+      } else if (element.hasClass("deleted")) {
+        //const deletedMetaDatum = element.data("meta-data");
+        //element.removeClass("deleted");
+        // Do nothing.
+      } else {
+        var url = element.attr("src");
+        var firstDeletion = deleteMetaData(firstMetaData, url);
+        var secondDeletion = deleteMetaData(secondMetaData, url);
+        var deletedMetaDatum = firstMetaData || secondMetaData;
+        element.data("meta-data", deletedMetaDatum);
+        console.log("Deleted url: " + url);
+        element.addClass("deleted");
+				deletedUrls.push(url);
+      }
+    });
+
+    function downloadBlob(blob, fileName) {
+			// Attribution: https://stackoverflow.com/a/30832210/137996 
+			if (window.navigator.msSaveOrOpenBlob) // IE10+
+					window.navigator.msSaveOrOpenBlob(blob, fileName);
+			else { // Others
+					var a = document.createElement("a"),
+									url = URL.createObjectURL(blob);
+					a.href = url;
+					a.download = fileName;
+					document.body.appendChild(a);
+					a.click();
+					setTimeout(function() {
+							document.body.removeChild(a);
+							window.URL.revokeObjectURL(url);  
+					}, 0); 
+			} 
+    }
+
+    function downloadMetaData(metaData, fileName) {
+      if (metaData !== null) {
+        var blob = null;
+        if (fileName.endsWith("csv")) {
+          blob = metaDataToCsvBlob(metaData);
+        } else {
+          blob = urlsToTxtBlob(metaData.map(x => x.imageUrl));
+        }
+        downloadBlob(blob, fileName);
+      }
+    }
+
+    function metaDataToCsvBlob(metaData) {
+      const lines = metaData.map(x => x.imageUrl + csvDelimiter + x.previewUrl);
+      lines.sort();
+      return new Blob([lines.join("\n")], { type: "text/csv" });
+    }
+
+    function urlsToTxtBlob(urls) {
+			urls.sort();
+      return new Blob([urls.join("\n")], { type: "text/plain" });
+    }
+
+    $("#downloadButton").on("click", e => {
+      var firstUrls = (firstMetaData || []).map(x => x.imageUrl);
+      var secondUrls = (secondMetaData || []).map(x => x.imageUrl);
+      var allUrls = Array.from(new Set(firstUrls.concat(secondUrls)));
+      downloadBlob(urlsToTxtBlob(allUrls), "all.txt");
+      downloadMetaData(firstMetaData, firstMetaDataFileName);
+      downloadMetaData(secondMetaData, secondMetaDataFileName);
+    });
+  </script>
+</body>
+</html>

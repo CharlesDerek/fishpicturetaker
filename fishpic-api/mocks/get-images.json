@@ -1,0 +1,15 @@
+{
+  "httpMethod": "GET",
+  "headers": {
+    "Accept": "application/json",
+    "Authorization": "Bearer fakeAwsTokenThatDoesn'tWork"
+  },
+  "body": "",
+  "queryStringParameters": { "query": "{images{Id}}" },
+  "requestContext": {
+    "httpMethod": "GET",
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
